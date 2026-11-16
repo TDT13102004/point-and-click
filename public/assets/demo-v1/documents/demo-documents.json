@@ -1,0 +1,22 @@
+{
+  "notice": {
+    "id": "DOC-NOTICE",
+    "title": "Ghi chú bàn giao chìa khóa",
+    "body": "An Linh kiểm tra căn 1305 theo sự thu xếp của tổ quản lý. Giữ lại hiện trạng đồ đạc, chụp ảnh trước khi di chuyển. Căn hộ đã bỏ trống nhiều năm.",
+    "source": "New demo-only connective text; not a historic document."
+  },
+  "book_note": {
+    "id": "DOC-BOOK-NOTE",
+    "title": "Mảnh giấy trong sách đỏ",
+    "body": "Chúng tôi thuê lại căn hộ này qua một người quen để có chỗ gặp nhau. Tôi đã nghĩ ở ngay tầng này sẽ dễ che giấu mọi chuyện hơn. Nếu có ai tìm thấy cuốn sách, xin đừng coi những gì viết trong đó là một trò đùa.",
+    "source": "Demo adaptation from viet-hoa-viet-nam/tai-lieu/12-sach-do.md; shortened and newly worded, next garage clue intentionally omitted."
+  },
+  "evp": {
+    "id": "DOC-EVP",
+    "title": "Phiên EVP — bản chép tạm",
+    "body": "[Nhiễu] Đừng nhìn phía sau. Cuốn sách. Trong vách. [Nhiễu]",
+    "source": "New demo placeholder; NOT a Vietnamese translation of the original English word puzzle.",
+    "voice_status": "local synthesized Vietnamese voice, not an actor recording",
+    "puzzle_status": "not finalized; no coded room number or complete solve chain is claimed"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "ok": true,
+  "assets": [
+    {
+      "path": "assets/demo-v1/backgrounds/bg-1305-v1.png",
+      "format": "PNG",
+      "mode": "RGB",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2199789,
+      "color_count": ">65535",
+      "has_alpha": false,
+      "alpha_min": 255,
+      "alpha_max": 255,
+      "transparent_pixels": 0,
+      "content_bounds": [
+        0,
+        0,
+        1672,
+        941
+      ],
+      "problems": []
+    },
+    {
+      "path": "assets/demo-v1/backgrounds/bg-corridor-v1.png",
+      "format": "PNG",
+      "mode": "RGB",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2567235,
+      "color_count": ">65535",
+      "has_alpha": false,
+      "alpha_min": 255,
+      "alpha_max": 255,
+      "transparent_pixels": 0,
+      "content_bounds": [
+        0,
+        0,
+        1672,
+        941
+      ],
+      "problems": []
+    },
+    {
+      "path": "assets/demo-v1/backgrounds/bg-station-v1.png",
+      "format": "PNG",
+      "mode": "RGB",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2434242,
+      "color_count": ">65535",
+      "has_alpha": false,
+      "alpha_min": 255,
+      "alpha_max": 255,
+      "transparent_pixels": 0,
+      "content_bounds": [
+        0,
+        0,
+        1672,
+        941
+      ],
+      "problems": []
+    },
+    {
+      "path": "assets/demo-v1/closeups/cl-hatch-closed-v1.png",
+      "format": "PNG",
+      "mode": "RGB",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2746302,
+      "color_count": 46754,
+      "has_alpha": false,
+      "alpha_min": 255,
+      "alpha_max": 255,
+      "transparent_pixels": 0,
+      "content_bounds": [
+        0,
+        0,
+        1672,
+        941
+      ],
+      "problems": []
+    },
+    {
+      "path": "assets/demo-v1/closeups/cl-hatch-empty-v1.png",
+      "format": "PNG",
+      "mode": "RGB",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2190144,
+      "color_count": 59692,
+      "has_alpha": false,
+      "alpha_min": 255,
+      "alpha_max": 255,
+      "transparent_pixels": 0,
+      "content_bounds": [
+        0,
+        0,
+        1672,
+        941
+      ],
+      "problems": []
+    },
+    {
+      "path": "assets/demo-v1/closeups/cl-hatch-open-v1.png",
+      "format": "PNG",
+      "mode": "RGB",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2518027,
+      "color_count": ">65535",
+      "has_alpha": false,
+      "alpha_min": 255,
+      "alpha_max": 255,
+      "transparent_pixels": 0,
+      "content_bounds": [
+        0,
+        0,
+        1672,
+        941
+      ],
+      "problems": []
+    }
+  ]
+}
