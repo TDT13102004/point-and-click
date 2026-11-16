@@ -1,0 +1,48 @@
+{
+  "tool": "built-in image_gen",
+  "created": "2026-11-16",
+  "reference_roles": "User collage is a style/material reference, not a verified floor plan. Hatch images are edit targets in sequence.",
+  "prompts": {
+    "room": {
+      "prompt": "Use case: photorealistic-natural. Asset BG-1305 demo v1 for Vietnamese point-and-click horror game. Use attached reference collage ONLY as visual guidance for materials and modest Hanoi collective housing domestic interior, not collage layout. Generate ONE full-width landscape 16:9 empty living room of fictional apartment 1305, camera at eye level from entry. Old yellow cream plaster with restrained damp patches, pale square ceramic floor tiles, dark brown wooden barred window LEFT wall, fluorescent tube above window, small dark wooden tea table and TWO mismatched faded blue-purple plastic chairs at lower middle, off-white wooden interior door on RIGHT wall leading into dim bedroom. Small removable cream metal service hatch on rear wall to LEFT of interior doorway, clearly accessible, screws visible. Modest old wooden cabinet far left, very few belongings, abandoned for years but structurally intact. No people, ghosts, ritual objects, blood, text, numbers, UI, watermark. Dim warm fluorescent mixed with cold dusk window light, readable midtones, subdued documentary realism, restrained natural film grain. Preserve coherent straight architecture. Important interactable positions: window left, table lower center, hatch rear center-right, bedroom doorway far right. Not a luxury renovation, not a Western apartment. Render one single clean background, no montage. Landscape.",
+      "inputs": [
+        "../../references/images/can-1305-noi-that-reference.png"
+      ]
+    },
+    "corridor": {
+      "prompt": "Use case photorealistic-natural. Asset BG-CORRIDOR demo v1. ONE landscape 16:9 background for point-and-click horror set in fictional Hanoi Vietnam collective housing block C, upper floor abandoned since 2018. Reference attached collage for yellow plaster, off-white doors, ordinary modest Vietnamese materials ONLY. Camera fixed high at near end of long narrow OPEN-SIDED concrete apartment corridor, perspective toward dark far stairwell, readable not pitch black. Apartment doors all on RIGHT wall, simple off-white wooden doors with worn metal security grilles; plain blank door number plates (NO text). Left waist-high concrete parapet with iron grille open to grey dusk, visible informal extension bars; old terrazzo/concrete floor, modest exposed conduit and water pipes, damp cream-yellow walls, few renovation sacks far end. A dark doorway at far right third is suitable for later shadow overlay. Fluorescent practical lights, muted warm ochre and green-grey. No people, no ghosts, no blood, no ritual symbols, no UI, no labels or watermarks. Contemporary documentary architectural photo, no hospital or hotel aesthetics. Single continuous scene, no panels.",
+      "inputs": [
+        "../../references/images/can-1305-noi-that-reference.png"
+      ]
+    },
+    "station": {
+      "prompt": "Use case photorealistic-natural. Asset BG-STATION demo v1. ONE landscape 16:9 scene background for fictional Hanoi collective housing horror investigation. Attached collage is material and domestic style reference only. Eye level wide view of concrete stair landing floor 12. Worn pale yellow cream walls, faded terrazzo stair rising along LEFT, iron handrail, square barred window on back wall with cool night light, electrical conduit and small old blank noticeboard. On RIGHT foreground a portable inexpensive folding table brought by investigators, an open modern laptop with blank dark neutral screen, small audio recorder, plain notebook, compact camera receiver, cables, desk lamp. ONE faded blue-purple plastic chair. Concrete floor, restrained damp wall patches, inhabitants' slippers near a closed off-white wooden door. Warm desk lamp, cool outside light, legible scene with gentle dread. No people, no ghosts, no visible writing, no logos, no UI, no watermarks, no ritual objects. Ordinary Vietnam not Western basement, no futuristic technology. Scene must feel like a small temporary work area in a lived-in Vietnamese apartment block. Single clean scene no collage.",
+      "inputs": [
+        "../../references/images/can-1305-noi-that-reference.png"
+      ]
+    },
+    "hatch": {
+      "prompt": "Use case precise-object-edit / new close-up asset CL-HATCH-CLOSED-v1. Reference image is the already generated apartment 1305 background. Create ONE landscape 16:9 head-on close view of exactly the square cream metal service hatch on the rear yellow plaster wall in that room. Same warm ochre damp plaster texture, same aged cream painted metal, FOUR distinct corner screws, narrow right recessed pull, square frame, blank solid closed panel, realistic screw heads and faint recent scrape around lower right screw. Hatch occupies center 60 percent width and 75 percent height, straight frontal camera for a point-and-click inspection. No furniture, hands, text, labels, UI, logos or montage. Enough warm light to read material. This is a service panel, not a fan grille. Single closed state only.",
+      "inputs": [
+        "backgrounds/bg-1305-v1.png"
+      ]
+    },
+    "hatch_open": {
+      "prompt": "Use case precise-object-edit. Edit target first reference is CL-HATCH-CLOSED-v1 closeup. Supporting insert reference second is PROP-RED-BOOK. Produce same exact landscape crop, camera, wall texture, warm lighting and cream outer frame as closed hatch. Change ONLY solid inner square panel: remove it to reveal a shallow dark square service cavity. No electrical wires, no pipes or hazards. Inside on bottom shelf lies the same dark red book horizontally, clearly visible and small enough to fit. Empty dark upper cavity. The removed panel is out of frame. Keep outer frame aligned pixel-perfect as closely as possible. No text, hands, tools, ghosts or new objects. ONE open-hatch image, not collage.",
+      "inputs": [
+        "closeups/cl-hatch-closed-v1.png",
+        "props/prop-red-book-v1.png"
+      ]
+    },
+    "hatch_empty": {
+      "prompt": "Use case precise-object-edit. Edit this exact open service hatch image. Change ONLY: remove the red book entirely, revealing the dusty bottom shelf where it rested. Everything else unchanged: same landscape canvas size and camera, cream frame at same pixel positions, four screws, ochre wall texture, warm lighting, deep dark cavity, no door panel. Do not add objects, writing, hands or symbols. This is the empty-after-collection state for a game, must match the previous image closely.",
+      "inputs": [
+        "closeups/cl-hatch-open-v1.png"
+      ]
+    },
+    "book": {
+      "prompt": "Use case product-mockup. Asset PROP-RED-BOOK-v1 for point-and-click horror in modest Hanoi apartment 1305. ONE worn closed dark burgundy clothbound small hardback book, three-quarter view from above, spine on left, yellowed page edges, restrained scuffs and dusty corners, plain cover absolutely no text or symbols or logos. Whole book visible with generous transparent margin, book centered occupying 75 percent of image, isolated on genuine transparent background, no ground plane or external cast shadow, warm soft light from upper left, realistic material documentary game prop photograph. No hands, no extra objects, no horror motifs. Square canvas.",
+      "inputs": []
+    }
+  }
+}

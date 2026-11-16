@@ -1,0 +1,25 @@
+﻿ID,File,Loại,Mục đích,Nguồn,Trạng thái,Phiên bản,Đã kiểm tra file,Đã kiểm tra trong game
+MAP-F13,maps/map-floor13-v1.svg,svg,Sơ đồ tầng 13 hư cấu,procedural-original,demo-placeholder,1,True,False
+OV-SHADOW,overlays/ov-shadow-v1.svg,svg,"Bóng người mờ, cần đặt theo tọa độ cửa",procedural-original,demo-placeholder,1,True,False
+OV-VIGNETTE,overlays/ov-vignette-v1.svg,svg,Viền tối tăng căng thẳng,procedural-original,demo-placeholder,1,True,False
+OV-CCTV,overlays/ov-cctv-v1.svg,svg,Lớp dòng quét camera nhẹ,procedural-original,demo-placeholder,1,True,False
+AMB-ROOM,audio/amb-room-tone-v1.wav,wav,"Điện và nền phòng, tổng hợp tuần hoàn",procedural-original,demo-placeholder,1,True,False
+SFX-STATIC,audio/sfx-recorder-static-v1.wav,wav,Nhiễu máy ghi âm tạm,procedural-original,demo-placeholder,1,True,False
+SFX-KNOCK,audio/sfx-three-knocks-v1.wav,wav,Ba tiếng gõ sau vách,procedural-original,demo-placeholder,1,True,False
+SFX-CREAK,audio/sfx-door-creak-v1.wav,wav,"Tiếng cửa cũ, hiệu ứng tổng hợp",procedural-original,demo-placeholder,1,True,False
+SFX-PAPER,audio/sfx-paper-v1.wav,wav,"Tiếng giấy tạm, không phải bản thu thực",procedural-original,demo-placeholder,1,True,False
+SFX-CLICK,audio/sfx-ui-click-v1.wav,wav,Nút máy ghi âm,procedural-original,demo-placeholder,1,True,False
+VOICE-EVP,audio/voice-evp-placeholder-v1.wav,wav,Giọng EVP tiếng Việt tổng hợp tạm; không phải manh mối hoàn chỉnh,local-system-tts-plus-procedural-effects,demo-placeholder,1,True,False
+ICON-FOLDER,icons/icon-folder-v1.svg,svg,Biểu tượng folder,procedural-original,demo-placeholder,1,True,False
+ICON-CAMERA,icons/icon-camera-v1.svg,svg,Biểu tượng camera,procedural-original,demo-placeholder,1,True,False
+ICON-RECORDER,icons/icon-recorder-v1.svg,svg,Biểu tượng recorder,procedural-original,demo-placeholder,1,True,False
+ICON-NOTES,icons/icon-notes-v1.svg,svg,Biểu tượng notes,procedural-original,demo-placeholder,1,True,False
+ICON-BOOK,icons/icon-book-v1.svg,svg,Biểu tượng book,procedural-original,demo-placeholder,1,True,False
+DOCS-DEMO,documents/demo-documents.json,json,Nội dung kết nối và bản chép EVP tạm,authored-demo-text,demo-placeholder,1,True,False
+BG-1305,backgrounds/bg-1305-v1.png,png,Phòng sinh hoạt căn 1305,ai-generated-image_gen,demo-placeholder,1,True,False
+BG-CORRIDOR,backgrounds/bg-corridor-v1.png,png,Hành lang camera tầng 13,ai-generated-image_gen,demo-placeholder,1,True,False
+BG-STATION,backgrounds/bg-station-v1.png,png,Bàn theo dõi tầng 12,ai-generated-image_gen,demo-placeholder,1,True,False
+CL-HATCH-CLOSED,closeups/cl-hatch-closed-v1.png,png,Ô kỹ thuật đóng,ai-generated-image_gen,demo-placeholder,1,True,False
+CL-HATCH-OPEN,closeups/cl-hatch-open-v1.png,png,Ô kỹ thuật mở có sách,ai-generated-image_gen,demo-placeholder,1,True,False
+CL-HATCH-EMPTY,closeups/cl-hatch-empty-v1.png,png,Ô kỹ thuật sau khi lấy sách,ai-generated-image_gen,demo-placeholder,1,True,False
+PROP-RED-BOOK,props/prop-red-book-v1.png,png,"Sách đỏ, vật phẩm kiểm tra",ai-generated-image_gen,demo-placeholder,1,True,False

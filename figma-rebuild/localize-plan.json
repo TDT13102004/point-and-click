@@ -1,0 +1,648 @@
+[
+  {
+    "id": "235:3",
+    "title": "Những bóng người trên tầng 13",
+    "slug": "01-gioi-thieu",
+    "zones": [
+      {
+        "name": "Nội dung vụ án",
+        "template": "235:6",
+        "x": 50,
+        "y": 65,
+        "w": 514,
+        "h": 845,
+        "texts": [
+          "Bạn là người sáng lập An Linh, một nhóm chuyên tìm hiểu những hiện tượng khó lý giải và xử lý các vụ việc bị cho là có ma ám. Muốn giải quyết tận gốc, bạn thường phải lần lại lịch sử nơi xảy ra sự việc và tìm hiểu những người từng sống, từng chết ở đó.",
+          "Lần này, một số gia đình ở khu tập thể An Vân tại Hà Nội góp tiền mời bạn đến. Khu tập thể có những dãy nhà xây từ thập niên 1980; riêng khối C cao 13 tầng được bổ sung vào cuối những năm 1990. Trải qua nhiều lần cơi nới và sửa chữa, hành lang khối C giờ chằng chịt dây điện, những ô cửa thông gió phủ bụi, còn tường thì loang vết thấm. Các căn hộ trên tầng 13 đã lần lượt bỏ trống sau những biến cố nhiều năm trước.",
+          "Gần đây, tổ quản lý thuê một đội thợ xử lý thấm dột và tháo những mảng vách đã xuống cấp trên tầng 13. Từ hôm thi công, công nhân liên tục thấy hai bóng người lướt qua hành lang rồi khuất sau các cửa căn hộ. Cư dân tầng dưới cũng nghe tiếng kéo lê đồ đạc vào ban đêm, dù trên đó không còn ai ở.",
+          "Đội thợ xin tạm nghỉ. Những gia đình còn bám trụ trong khối nhà muốn biết mình đang sống dưới thứ gì. Bạn mang theo máy ghi âm, máy đo EMF và bộ đồ nghề quen thuộc, đi qua khoảng sân phơi chật hẹp để vào cầu thang khối C.",
+          "Trước khi bắt đầu, bạn cần:",
+          "1. Đọc những ghi chép về các cái chết từng xảy ra trên tầng 13.",
+          "2. Đối chiếu lời kể của đội thợ và những người sống lâu năm trong khu tập thể.",
+          "3. Dùng các dụng cụ điều tra để xác định những linh hồn nào có liên quan.",
+          "4. Tìm cách hoá giải sự việc, giúp những vong hồn còn vương vấn được siêu thoát, rồi báo lại cho các gia đình đã nhờ bạn."
+        ],
+        "size": 16.6,
+        "line": 25,
+        "gap": 15,
+        "align": "LEFT",
+        "center": false,
+        "fill": 0.96
+      }
+    ]
+  },
+  {
+    "id": "235:10",
+    "title": "Những cái chết trên tầng 13",
+    "slug": "02-nhung-cai-chet",
+    "zones": [
+      {
+        "name": "Tiêu đề",
+        "template": "235:13",
+        "x": 45,
+        "y": 28,
+        "w": 596,
+        "h": 45,
+        "texts": [
+          "NHỮNG CÁI CHẾT TRÊN TẦNG 13"
+        ],
+        "size": 30,
+        "line": 40,
+        "gap": 0,
+        "align": "CENTER",
+        "center": false,
+        "fill": 0.94
+      },
+      {
+        "name": "Chú thích hồ sơ",
+        "template": "235:14",
+        "x": 85,
+        "y": 82,
+        "w": 516,
+        "h": 64,
+        "texts": [
+          "Bản tổng hợp của nhóm An Linh, đối chiếu từ các bài báo cũ, sổ ghi chép của tổ dân phố, lời kể của cư dân và ghi nhận ngoại cảm."
+        ],
+        "size": 13.4,
+        "line": 18.5,
+        "gap": 0,
+        "align": "CENTER",
+        "center": false,
+        "fill": 0.94
+      },
+      {
+        "name": "Các hồ sơ tử vong",
+        "template": "235:15",
+        "x": 88,
+        "y": 165,
+        "w": 510,
+        "h": 824,
+        "texts": [
+          "Trần Văn Bình và Lê Thị Hạnh: Vợ chồng ông Bình sống tại căn hộ 1310 từ những năm đầu khối C được đưa vào sử dụng. Năm 2002, cả hai được phát hiện đã qua đời trên giường. Trước đó, bà Hạnh được chẩn đoán ung thư não giai đoạn cuối, thời gian còn lại chỉ tính bằng tuần. Hai người quen nhau từ thời đi học và đã gắn bó gần hết cuộc đời. Hồ sơ ghi nhận họ cùng uống thuốc ngủ với rượu rồi nằm ôm nhau. Vụ việc được kết luận là cùng tự sát.",
+          "Phạm Gia Khánh: Ca sĩ chính của ban nhạc rock Dạ Khúc, thường biểu diễn tại các quán nhạc và phòng trà ở Hà Nội. Khánh thuê căn hộ 1319 để ở và tập nhạc. Sau những đêm diễn cuối tuần, anh thường rủ bạn bè về tụ tập. Năm 2018, Khánh được tìm thấy đã chết trong căn hộ này. Kết quả giám định ghi nhận dấu vết của nhiều chất kích thích. Cái chết ban đầu được nhận định là tai nạn do sử dụng chất gây nghiện. Người quen kể rằng Khánh thích tiệc tùng, còn nhiều dự định và chưa từng tỏ ý muốn tìm đến cái chết.",
+          "Hội Cửu Tinh: Một nhóm tín ngưỡng khép kín gồm năm người, do Vũ Quang Vinh đứng đầu. Vinh sống ở căn hộ 1302 và thường gọi các thành viên đến tụ họp sau khi trời tối. Hắn tuyên bố vào đêm 25 tháng 12 năm 2018, một “thuyền sao” sẽ đón các tín đồ rời cõi trần, đưa họ lên tầng trời thứ chín, mà hắn gọi là Cửu Thiên. Các thành viên được yêu cầu cùng kết liễu cuộc đời để chuẩn bị cho chuyến đi ấy.",
+          "Nhưng những cái chết xảy ra trong căn hộ 1302 không giống một vụ tự sát tập thể. Theo nhận định điều tra ban đầu, Vinh đã dùng dao sát hại những người trong căn hộ rồi tự sát. Hắn bị cho là nổi cơn ghen khi biết Ngọc Nữ, nữ tín đồ mà hắn muốn giữ bên mình, có quan hệ tình cảm với Đạo hữu An. Chi tiết này xuất phát từ lời kể thu thập sau vụ việc, chưa được xác nhận đầy đủ.",
+          "Người duy nhất không tìm thấy thi thể là Ngọc Nữ. Các điều tra viên nghi cô cũng đã chết, nhưng không có bằng chứng xác định cô đã ở đâu sau đêm xảy ra án mạng. Sau vụ việc và cái chết của Khánh, những hộ còn lại trên tầng 13 lần lượt chuyển đi. Các căn hộ bỏ trống, cửa khoá lâu ngày; chỉ còn người ở tầng dưới thỉnh thoảng lên kiểm tra chỗ dột.",
+          "Danh sách thành viên được ghi lại trong hồ sơ vụ việc:",
+          "1. Vũ Quang Vinh — người đứng đầu hội\n2. Ngọc Nữ — tên dùng trong hội\n3. Đạo hữu An — Trần Đức An\n4. Đạo hữu Phúc — Lê Minh Phúc\n5. Đạo hữu Huyền — Đặng Quốc Huyền"
+        ],
+        "size": 14.2,
+        "line": 20.2,
+        "gap": 12,
+        "align": "LEFT",
+        "center": false,
+        "fill": 0.98
+      }
+    ]
+  },
+  {
+    "id": "235:19",
+    "title": "Những lần chạm mặt trên tầng 13",
+    "slug": "03-loi-khai",
+    "zones": [
+      {
+        "name": "Tiêu đề",
+        "template": "235:26",
+        "x": 22,
+        "y": 18,
+        "w": 650,
+        "h": 46,
+        "texts": [
+          "NHỮNG LẦN CHẠM MẶT TRÊN TẦNG 13"
+        ],
+        "size": 31,
+        "line": 42,
+        "gap": 0,
+        "align": "LEFT",
+        "center": false,
+        "fill": 0.94
+      },
+      {
+        "name": "Lời khai Nguyễn Văn Thành",
+        "template": "235:27",
+        "x": 198,
+        "y": 76,
+        "w": 465,
+        "h": 330,
+        "texts": [
+          "Nguyễn Văn Thành: “Nói thật, trước giờ tôi chẳng tin ma quỷ gì đâu. Nhưng thấy thế nào thì tôi kể thế ấy. Có hai cái bóng, dáng như người, cứ vụt qua vụt lại ngoài hành lang rồi lẩn vào các căn hộ khoá cửa. Bọn tôi sửa trên tầng này gần ba tuần rồi. Mãi đến hôm tháo mấy mảng vách mới bắt đầu gặp. Ban đầu tôi tưởng người ở tầng dưới lên xem, nhưng gọi thì chẳng ai trả lời. Tôi còn thấy mấy chữ kỳ quặc trên tấm vách vừa gỡ xuống. Anh xem thử giúp tôi.”"
+        ],
+        "size": 16.4,
+        "line": 23,
+        "gap": 0,
+        "align": "LEFT",
+        "center": false,
+        "fill": 0.94
+      },
+      {
+        "name": "Lời khai Trần Hữu Phước",
+        "template": "235:27",
+        "x": 198,
+        "y": 431,
+        "w": 465,
+        "h": 246,
+        "texts": [
+          "Trần Hữu Phước: “Tầng này có vong. Tôi nghĩ vậy. Hồi còn sống, bà ngoại tôi hay kể có những người mất rồi mà vẫn chưa đi được, cứ quanh quẩn tìm một điều gì chưa xong. Bà có căn, lâu lâu tôi cũng cảm thấy những chuyện người khác không thấy. Từ hôm gặp mấy cái bóng, tôi thử ngồi yên, cầm bút, để tay tự viết. Tôi không chủ ý viết mấy dòng đó. Tỉnh ra đọc lại mới thấy lạ.”"
+        ],
+        "size": 16.4,
+        "line": 23,
+        "gap": 0,
+        "align": "LEFT",
+        "center": false,
+        "fill": 0.94
+      },
+      {
+        "name": "Lời khai Lê Quốc Dũng",
+        "template": "235:27",
+        "x": 198,
+        "y": 721,
+        "w": 465,
+        "h": 222,
+        "texts": [
+          "Lê Quốc Dũng: “Tôi chưa tận mắt thấy bóng người, nhưng mấy anh trong đội đều kể như nhau, nên tôi cũng tin. Riêng chuyện này thì tôi biết chắc: hôm trước tôi vừa sơn xong bức tường ngoài hành lang, hôm sau lên đã thấy ai vẽ chữ chằng chịt lên đó. Cửa cầu thang tối đến bác bảo vệ khoá lại, có đứa trẻ con nào lên nghịch được đâu. Mất công cả ngày chứ ít gì. Người hay ma thì cũng để yên cho tôi làm việc với.”"
+        ],
+        "size": 16.4,
+        "line": 23,
+        "gap": 0,
+        "align": "LEFT",
+        "center": false,
+        "fill": 0.94
+      }
+    ]
+  },
+  {
+    "id": "235:30",
+    "title": "Điểm theo dõi",
+    "slug": "09-trung-tam",
+    "zones": [
+      {
+        "name": "Tiêu đề",
+        "template": "235:56",
+        "x": 170,
+        "y": 67,
+        "w": 530,
+        "h": 62,
+        "texts": [
+          "ĐIỂM THEO DÕI"
+        ],
+        "size": 50,
+        "line": 62,
+        "gap": 0,
+        "align": "CENTER",
+        "center": false,
+        "fill": 0.94
+      },
+      {
+        "name": "Mô tả bàn theo dõi",
+        "template": "235:57",
+        "x": 60,
+        "y": 137,
+        "w": 746,
+        "h": 66,
+        "texts": [
+          "Bạn đặt camera ở hai đầu hành lang và trước những căn hộ có dấu hiệu bất thường. Máy tính cùng màn hình theo dõi được kê tạm trên chiếc bàn cũ ở chiếu nghỉ cầu thang tầng 12. Từ đây, bạn có thể xem hình ảnh trên tầng 13 mà không phải liên tục đứng giữa hành lang tối."
+        ],
+        "size": 14.2,
+        "line": 20,
+        "gap": 0,
+        "align": "CENTER",
+        "center": false,
+        "fill": 0.94
+      },
+      {
+        "name": "Câu hỏi trên màn hình",
+        "template": "235:58",
+        "x": 12,
+        "y": 232,
+        "w": 265,
+        "h": 47,
+        "texts": [
+          "WHAT ARE THE FIRST NAMES OF THE SHADOW PEOPLE IN ALPHABETICAL ORDER?"
+        ],
+        "size": 13,
+        "line": 16,
+        "gap": 0,
+        "align": "CENTER",
+        "center": false,
+        "fill": 0.94
+      },
+      {
+        "name": "Câu hỏi trên màn hình",
+        "template": "235:59",
+        "x": 309,
+        "y": 241,
+        "w": 270,
+        "h": 36,
+        "texts": [
+          "WHAT DID THE SHADOW PEOPLE DO?"
+        ],
+        "size": 13,
+        "line": 16,
+        "gap": 0,
+        "align": "CENTER",
+        "center": false,
+        "fill": 0.94
+      },
+      {
+        "name": "Câu hỏi trên màn hình",
+        "template": "235:60",
+        "x": 604,
+        "y": 244,
+        "w": 250,
+        "h": 36,
+        "texts": [
+          "SEARCH THE PARKING GARAGE"
+        ],
+        "size": 13,
+        "line": 16,
+        "gap": 0,
+        "align": "CENTER",
+        "center": false,
+        "fill": 0.94
+      },
+      {
+        "name": "Hướng dẫn nhập đáp án",
+        "template": "235:61",
+        "x": 170,
+        "y": 505,
+        "w": 530,
+        "h": 30,
+        "texts": [
+          "(Không dùng chữ hoa hoặc khoảng trắng.)"
+        ],
+        "size": 12.5,
+        "line": 18,
+        "gap": 0,
+        "align": "CENTER",
+        "center": false,
+        "fill": 0.94
+      }
+    ]
+  },
+  {
+    "id": "235:63",
+    "title": "Linh thị",
+    "slug": "08-linh-thi",
+    "zones": [
+      {
+        "name": "Linh thị và câu hỏi",
+        "template": "235:67",
+        "x": 43,
+        "y": 108,
+        "w": 380,
+        "h": 332,
+        "texts": [
+          "Từ nhỏ, thỉnh thoảng bạn đã thấy những hình ảnh thoáng qua mà không sao giải thích được. Chính khả năng ấy khiến bạn tìm đến những vụ việc như thế này. Giữa lúc kiểm tra tầng 13, một hình ảnh bất chợt hiện lên: có thứ gì đó bạn cần phải đọc.",
+          "But what is it and what room number on the 13th floor should you search (spell out)?"
+        ],
+        "size": 17,
+        "line": 27,
+        "gap": 20,
+        "align": "CENTER",
+        "center": true,
+        "fill": 0.94
+      },
+      {
+        "name": "Hướng dẫn nhập đáp án",
+        "template": "235:68",
+        "x": 70,
+        "y": 576,
+        "w": 326,
+        "h": 47,
+        "texts": [
+          "(Không dùng chữ hoa hoặc khoảng trắng.)"
+        ],
+        "size": 12.7,
+        "line": 18,
+        "gap": 0,
+        "align": "CENTER",
+        "center": false,
+        "fill": 0.94
+      }
+    ]
+  },
+  {
+    "id": "235:69",
+    "title": "Chữ viết tự động của Trần Hữu Phước",
+    "slug": "04-chu-viet-tu-dong",
+    "zones": [
+      {
+        "name": "Tên người viết",
+        "template": "235:74",
+        "x": 20,
+        "y": 28,
+        "w": 391,
+        "h": 43,
+        "texts": [
+          "Chữ viết tự động của\nTrần Hữu Phước:"
+        ],
+        "size": 15.5,
+        "line": 20,
+        "gap": 0,
+        "align": "CENTER",
+        "center": false,
+        "fill": 0.94
+      }
+    ]
+  },
+  {
+    "id": "235:76",
+    "title": "Chữ viết và vết khắc trên vách thạch cao đã tháo ra",
+    "slug": "05-vet-khac",
+    "zones": [
+      {
+        "name": "Chú thích vết khắc",
+        "template": "235:124",
+        "x": 34,
+        "y": 47,
+        "w": 354,
+        "h": 46,
+        "texts": [
+          "Chữ viết và vết khắc trên\nvách thạch cao đã tháo ra:"
+        ],
+        "size": 13.7,
+        "line": 20,
+        "gap": 0,
+        "align": "CENTER",
+        "center": false,
+        "fill": 0.94
+      }
+    ]
+  },
+  {
+    "id": "235:125",
+    "title": "Chữ vẽ trên tường",
+    "slug": "06-graffiti",
+    "zones": []
+  },
+  {
+    "id": "235:132",
+    "title": "Bản chép phiên liên lạc EVP đầu tiên",
+    "slug": "07-phien-evp-dau",
+    "zones": [
+      {
+        "name": "Dẫn nhập phiên EVP",
+        "template": "235:377",
+        "x": 67,
+        "y": 77,
+        "w": 552,
+        "h": 135,
+        "texts": [
+          "Trong một đêm ở lại tầng 13, bạn nhiều lần trông thấy những bóng người thoắt ẩn thoắt hiện. Bạn khá chắc rằng có ít nhất hai bóng người. Bạn quyết định tiến hành một phiên liên lạc EVP theo hình thức hỏi đáp, hy vọng một hoặc cả hai sẽ đáp lời. Dưới đây là bản chép lại kết quả:"
+        ],
+        "size": 15.2,
+        "line": 21.5,
+        "gap": 0,
+        "align": "CENTER",
+        "center": false,
+        "fill": 0.94
+      },
+      {
+        "name": "Bản chép hỏi đáp",
+        "template": "235:378",
+        "x": 78,
+        "y": 237,
+        "w": 550,
+        "h": 759,
+        "texts": [
+          "Bạn: Chào. Nếu bạn là một trong những bóng người ở đây, tôi muốn nói chuyện. Nếu bạn cất tiếng, máy ghi âm của tôi có thể thu được. Tôi không có ý làm hại bạn.",
+          "*tiếng rít*",
+          "Bạn: Bạn có thể cho tôi một dấu hiệu không? Tạo ra âm thanh gì đó chẳng hạn?",
+          "*một tiếng động lớn*",
+          "Bạn: Cảm ơn. Tôi muốn biết thêm về bạn. Bạn đã chết như thế nào?",
+          "*tiếng rít*",
+          "Bạn: Được rồi. Vậy bạn có thể cho tôi biết tên không? Hoặc kể điều gì đó về mình?",
+          "...mistake...",
+          "Bạn: Bạn đã phạm sai lầm? Đó là điều bạn muốn nói với tôi sao?",
+          "...there brad cloth believer fixed hobo cook sin wifi alive...",
+          "Bạn: Bạn có thể giải thích ý mình không?",
+          "*tiếng rít*",
+          "Bạn: Xin hãy nói tiếp.",
+          "*tiếng rít*",
+          "Bạn: Giúp tôi hiểu được không?",
+          "...yz is your guide..."
+        ],
+        "size": 15.2,
+        "line": 21,
+        "gap": 13,
+        "align": "LEFT",
+        "center": false,
+        "fill": 0.96
+      }
+    ]
+  },
+  {
+    "id": "235:379",
+    "title": "Dụng cụ điều tra hiện tượng siêu nhiên",
+    "slug": "10-dung-cu",
+    "zones": [
+      {
+        "name": "Tiêu đề",
+        "template": "235:382",
+        "x": 55,
+        "y": 40,
+        "w": 504,
+        "h": 52,
+        "texts": [
+          "DỤNG CỤ ĐIỀU TRA"
+        ],
+        "size": 37,
+        "line": 49,
+        "gap": 0,
+        "align": "CENTER",
+        "center": false,
+        "fill": 0.94
+      }
+    ]
+  },
+  {
+    "id": "235:384",
+    "title": "Thanh tẩy tầng 13",
+    "slug": "11-thanh-tay",
+    "zones": [
+      {
+        "name": "Hướng dẫn nhập đáp án",
+        "template": "235:391",
+        "x": 92,
+        "y": 614,
+        "w": 451,
+        "h": 82,
+        "texts": [
+          "(Nhập theo đúng thứ tự, không dùng chữ hoa hoặc khoảng trắng.)"
+        ],
+        "size": 17.5,
+        "line": 25,
+        "gap": 0,
+        "align": "CENTER",
+        "center": false,
+        "fill": 0.94
+      }
+    ]
+  },
+  {
+    "id": "235:392",
+    "title": "Bản chép phiên liên lạc EVP thứ hai",
+    "slug": "14-phien-evp-thu-hai",
+    "zones": [
+      {
+        "name": "Phiên EVP thứ hai",
+        "template": "235:396",
+        "x": 122,
+        "y": 130,
+        "w": 719,
+        "h": 1535,
+        "texts": [
+          "Bạn đã khá chắc hai bóng người lẩn khuất trên tầng 13 là Phạm Gia Khánh và Ngọc Nữ. Từ một cuốn sổ ghi tên người từng ở khối C và lời kể của cư dân, bạn biết người phụ nữ ấy tên thật là Nguyễn Ngọc Lan; “Ngọc Nữ” chỉ là danh xưng trong Hội Cửu Tinh. Bạn quyết định thử gọi đúng tên họ trong một phiên ghi âm hỏi đáp nữa.",
+          "Bạn: Khánh và Lan, hai người có ở đây cùng tôi không? Nếu có, hai người có thể nói, máy ghi âm của tôi có thể sẽ thu được giọng của hai người.",
+          "*here*",
+          "Bạn: Tốt rồi. Tôi chỉ muốn hiểu chuyện gì đã xảy ra với hai người.",
+          "*tragedy*",
+          "Bạn: Đã có một bi kịch. Hai người yêu nhau phải không?",
+          "*secret*",
+          "Bạn: Tình yêu của hai người là một bí mật?",
+          "*trapped*",
+          "Bạn: Bị giáo phái giam giữ?",
+          "*Vinh*",
+          "Bạn: Cô ấy bị Vũ Quang Vinh giữ chân. Hai người đã làm gì để giải quyết chuyện đó?",
+          "*off the record*",
+          "Bạn: Được thôi, chuyện này sẽ không được công bố. Nhưng nếu cả hai đều đã chết thì còn gì phải lo nữa. Hai người có thể nói với tôi.",
+          "*er...ay...and...you...king...kin...greed”",
+          "Bạn: Tôi không chắc điều đó nghĩa là gì. Hai người có thể cho tôi biết phải tìm ở đâu không?",
+          "*1313*"
+        ],
+        "size": 33,
+        "line": 42,
+        "gap": 26,
+        "align": "LEFT",
+        "center": false,
+        "fill": 0.97
+      }
+    ]
+  },
+  {
+    "id": "235:414",
+    "title": "Cuốn sách đỏ trong căn hộ 1305",
+    "slug": "12-sach-do",
+    "zones": [
+      {
+        "name": "Ghi chú mở đầu",
+        "template": "235:428",
+        "x": 161,
+        "y": 579,
+        "w": 640,
+        "h": 182,
+        "texts": [
+          "Tổ quản lý liên hệ được với người giữ chìa khoá căn hộ 1305 và thu xếp để bạn vào kiểm tra. Sau khi lục soát, bạn tìm thấy một cuốn sách đỏ giấu trong ô thông gió phía trên một vách ngăn. Dường như đó là một cuốn sách thần chú. Bên trong có để lại mảnh giấy sau:"
+        ],
+        "size": 32,
+        "line": 42,
+        "gap": 0,
+        "align": "CENTER",
+        "center": false,
+        "fill": 0.94
+      },
+      {
+        "name": "Lời nhắn trong sách",
+        "template": "235:429",
+        "x": 158,
+        "y": 790,
+        "w": 646,
+        "h": 505,
+        "texts": [
+          "“Chúng tôi đã bí mật thuê lại căn hộ này qua một người quen để có chỗ gặp nhau. Trong khu tập thể, chỉ cần ai nhìn thấy vài lần là cả cầu thang đều biết chuyện. Ở ngay tầng này càng dễ chạm mặt người của hội. Nhưng tầng 13 lại rất cần thiết cho việc chúng tôi sắp làm. Con số ấy có ý nghĩa. Nó mang sức mạnh. Chúng tôi đã cố giấu kín mọi chuyện, nhưng tôi chán phải trốn tránh rồi. Tôi sắp làm một việc quyết liệt. Cô ấy là tất cả đối với tôi. Nếu chuyện này kết thúc tồi tệ, hãy tìm chiếc xe tôi để trong nhà để xe sau sân. Trên xe có gắn một tấm biển giả gồm những chữ cái sau:"
+        ],
+        "size": 32,
+        "line": 42,
+        "gap": 0,
+        "align": "CENTER",
+        "center": false,
+        "fill": 0.94
+      }
+    ]
+  },
+  {
+    "id": "235:432",
+    "title": "Chiếc xe trong nhà để xe chung",
+    "slug": "13-gara",
+    "zones": [
+      {
+        "name": "Câu chuyện trong gara",
+        "template": "235:483",
+        "x": 112,
+        "y": 130,
+        "w": 738,
+        "h": 650,
+        "texts": [
+          "Dãy chữ cái dẫn bạn đến một chiếc Toyota Camry đời 1993 màu đen, phủ bụi trong gian để ô tô phía sau nhà để xe chung của khu tập thể. Trên xe có gắn một tấm biển giả gồm sáu chữ cái, che lên vị trí biển số thật. Một bác bảo vệ đang ngồi ghi sổ trông xe thấy bạn tìm kiếm liền bước lại.",
+          "“Xe của cậu Khánh, người thuê căn 1319 đấy,” bác nói. “Từ hồi cậu ấy mất đến giờ chẳng thấy ai đến nhận. Gian này về sau bị dột, người ta khoá lại nên xe cứ nằm nguyên trong đó. Tôi hồi trước cũng có nhắc chuyện dọn đi, rồi chẳng đâu vào đâu. Tổ quản lý có báo bên anh xuống xem. Tôi giữ chùm chìa khoá cũ được bàn giao lại, để thử xem còn mở được không.”",
+          "Bác bảo vệ mở khoá gian để xe rồi thử lần lượt mấy chiếc chìa. Một chiếc tra vừa ổ cửa xe. Khoang hành khách không có gì đáng chú ý, nhưng khi mở cốp, bạn tìm thấy một máy hát đĩa cũ cùng một đĩa than. Trên nhãn đĩa có bốn dòng chữ:"
+        ],
+        "size": 32,
+        "line": 39,
+        "gap": 28,
+        "align": "LEFT",
+        "center": false,
+        "fill": 0.98
+      }
+    ]
+  },
+  {
+    "id": "235:488",
+    "title": "Bức thư trong căn hộ 1313",
+    "slug": "15-phong-1313",
+    "zones": [
+      {
+        "name": "Bức thư và diễn biến",
+        "template": "235:492",
+        "x": 99,
+        "y": 86,
+        "w": 615,
+        "h": 1604,
+        "texts": [
+          "Người đang giữ căn hộ 1313 đồng ý để bạn vào tìm hiểu. Ngay khi mở cửa, bạn đã thấy bất an. Rèm cũ che kín cửa sổ, trong nhà nồng mùi ẩm mốc. Linh hồn Khánh và Lan đã cho biết họ từng triệu hồi một thứ gì đó ở đây. Sau vài phút kiểm tra, bạn nhận thấy một mảng vách ngăn có đường nối khác hẳn phần còn lại. Bạn cạy đường nối bằng dao gấp rồi kéo tấm thạch cao khỏi khung. Trong khoảng trống phía sau là thi thể khô quắt của một người phụ nữ. Trong tay cô có một mảnh giấy. Trên đó viết:",
+          "“Tôi với Lan yêu nhau. Nhưng người của hội không cho cô ấy rời đi. Vinh càng không chịu buông tha. Những năm đi diễn cùng Dạ Khúc, tôi từng nghe không ít chuyện về bùa chú, gọi vong và những người tìm cách sai khiến thứ ở cõi âm. Tôi đã nghĩ ra chuyện nhờ một thứ như thế đối phó với Vinh. Nếu hắn không còn kiểm soát được hội, Lan sẽ có đường thoát. Chúng tôi chọn căn 1313 đang bỏ trống để làm lễ, cách căn hộ của hắn chỉ một đoạn hành lang. Tôi kiếm được một cuốn sách bìa đỏ, chép những nghi thức lạ bằng tiếng Anh. Giờ nghĩ lại, tôi chỉ thấy mình quá ngu ngốc. Nhưng lúc ấy, tôi lại tưởng đó là cách hay. Tôi còn tự nhủ, nếu chuyện xảy ra do một thế lực vô hình thì ai có thể chứng minh hai đứa có liên quan? Còn nếu chẳng có gì xảy ra, chúng tôi lại tìm cách khác.",
+          "Hoá ra, kế hoạch của chúng tôi lại thành công quá mức. Chúng tôi đã triệu hồi một thứ gì đó. Thứ ấy — một ác linh, một con quỷ, hay muốn gọi là gì cũng được — đã nhập vào Vũ Quang Vinh và khiến hắn giết các thành viên khác rồi tự sát. Hắn cũng đã giết Lan nếu tôi không cứu cô ấy. Nhưng khi Vinh chết, thứ ở trong hắn tìm đến Lan và chiếm lấy cô ấy, buộc cô ấy tấn công tôi. Cô ấy cố giết tôi, và cuối cùng, tôi đâm cô ấy trong lúc tự vệ. Tôi biết người tấn công mình không thực sự là cô ấy. Nhưng điều đó vẫn khiến tim tôi tan nát. Tất cả đều là lỗi của tôi.",
+          "Tôi giấu thi thể cô ấy vào khoảng trống sau vách thạch cao trong căn hộ này rồi bịt lại, hy vọng thứ chúng tôi gọi đến cũng bị giữ luôn ở đó. Nhưng cuối cùng, nó vẫn tìm được tôi. Giờ nó đang ở trong tôi. Có những lúc tôi không còn điều khiển nổi tay chân mình. Tôi cảm thấy nó ngày một mạnh hơn. Tôi viết những dòng này trước khi trở về căn hộ của mình, nơi tôi đã để sẵn thuốc. Tôi chỉ mong mọi chuyện dừng lại, và mình có thể được gặp Lan một lần nữa.",
+          "Còn một chuyện nữa. Trước khi nó chiếm lấy tôi, tôi đã thử cầu cơ để hỏi cách trục xuất nó. Những gì nhận được lại là tiếng Anh, giống cuốn sách bìa đỏ. Tôi chép nguyên văn ở đây:",
+          "light some candles, burn some sage, recite a very specific passage from a certain prayer book, draw some sigils on the wall, cut my palm with a knife and let the blood drip down, and then ring a bell.",
+          "Nếu thứ đó vẫn còn lang thang trên tầng mười ba, tôi sẽ thử cách này để trục xuất nó. Tôi muốn tự mình làm, nhưng không thể, vì giờ nó đang sống bên trong tôi. Nó sẽ không cho phép. Tôi thậm chí không chắc nó có để tôi tự kết liễu đời mình hay không. Rồi sẽ biết.”"
+        ],
+        "size": 26,
+        "line": 33,
+        "gap": 22,
+        "align": "LEFT",
+        "center": false,
+        "fill": 0.98
+      }
+    ]
+  },
+  {
+    "id": "235:494",
+    "title": "Khép lại vụ án",
+    "slug": "16-ket-thuc",
+    "zones": [
+      {
+        "name": "Khép lại vụ án",
+        "template": "235:498",
+        "x": 112,
+        "y": 124,
+        "w": 739,
+        "h": 1518,
+        "texts": [
+          "Thực thể tà ác trong căn hộ 1313 biết bạn sắp làm lễ trục xuất nó khỏi khối C. Đồ vật bị ném khắp căn hộ. Những bàn tay vô hình xô đẩy và cào cấu bạn. Tên bạn vang lên trong những tiếng thì thầm đầy ác ý. Nhưng bạn vẫn giữ vững sự tập trung, dùng đủ các vật dụng và thực hiện đúng từng bước Khánh ghi lại. Khi nghi thức kết thúc, cảm giác nặng nề lập tức tan đi. Từ ngoài hành lang, tiếng cánh cửa sắt đung đưa trong gió bỗng nghe rõ mồn một. Toà nhà như vừa trút được một sức nặng đã đè lên nó suốt nhiều năm.",
+          "Vừa lúc ấy, hai bóng người bước ra từ căn hộ 1305. Ban đầu, họ đứng tách biệt. Rồi cả hai chậm rãi tiến lại gần, hoà vào nhau thành một bóng duy nhất. Bạn chợt nhớ mong muốn cuối cùng trong thư Khánh: được ở bên Lan. Lúc sống, họ phải giấu giếm và tìm mọi cách để thoát khỏi sự ngăn cản. Đến lúc này, dường như chẳng còn gì chia lìa được họ nữa.",
+          "“Cảm ơn,” họ thì thầm, rồi tan thành một làn khói và biến mất ngay trước mắt bạn. Cảnh tượng ấy hẳn sẽ thật cảm động nếu nó không kỳ lạ đến vậy.",
+          "Bạn tin rằng những linh hồn khốn khổ ấy đã sang thế giới bên kia, còn thứ tà ác mà họ gọi đến đã bị trục xuất. Tầng 13 của khối C giờ đã yên.",
+          "Bạn xuống sân, báo lại cho những người đang đợi bên bàn nước dưới chân cầu thang. Bác bảo vệ rót thêm trà, một cô trong tổ dân phố hỏi liệu đêm nay mọi người đã có thể ngủ yên chưa. Bạn nói việc cần làm trên đó đã xong. Khoản thù lao gom từ từng gia đình vẫn nằm trong chiếc phong bì để trên bàn. Bạn nhận lấy, ngồi xuống chiếc ghế nhựa và uống một ngụm trà nóng. Lần đầu từ lúc bước vào khu tập thể, bạn thấy mình có thể thở thật sâu.",
+          "Vụ án khép lại."
+        ],
+        "size": 34,
+        "line": 44,
+        "gap": 36,
+        "align": "LEFT",
+        "center": false,
+        "fill": 0.98
+      }
+    ]
+  }
+]

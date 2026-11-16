@@ -1,0 +1,25 @@
+{
+  "ok": true,
+  "assets": [
+    {
+      "path": "assets/demo-v1/props/prop-red-book-v1.png",
+      "format": "PNG",
+      "mode": "RGBA",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2036121,
+      "color_count": ">65535",
+      "has_alpha": true,
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 793127,
+      "content_bounds": [
+        0,
+        21,
+        1240,
+        1254
+      ],
+      "problems": []
+    }
+  ]
+}

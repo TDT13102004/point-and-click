@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Shadow People on the 13th Floor</title>
+    <style>
+        body {
+            font-family: 'Courier New', Courier, monospace;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+            color: #fff; /* Changed text color to white for better visibility on black background */
+           background-image: url('');
+            height: 100%;
+            overflow-x: hidden;
+            background-color: #000; /* Set background color to black */
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+
+        h1 {
+            color: #fff;
+        }
+
+        #formContainer {
+            max-width: 1200px;
+            height: 510px;
+            margin: 0 auto;
+            background-color: rgba(0, 0, 0, 0.8);
+            padding: 20px;
+            border-radius: 10px;
+            border: 1px solid #fff;
+            background-image: url('');
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+
+        #backgroundImage {
+            width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+
+        .input-box {
+            display: block;
+            width: 60%;
+            margin: 20px auto; /* Adjusted margin */
+            border: 1px solid #000;
+            background-color: #fff;
+            padding: 5px;
+            box-sizing: border-box;
+        }
+
+        input {
+            width: 80%;
+            font-family: 'Courier New', Courier, monospace;
+            box-sizing: border-box;
+        }
+
+        #submit-button {
+            cursor: pointer;
+            border: none;
+            background-color: #AB2C1D;
+            color: white;
+            padding: 10px 20px;
+            margin: 20px auto; /* Adjusted margin */
+            border-radius: 5px;
+        }
+
+        #error-message {
+            color: white;
+            font-weight: bold;
+            margin-bottom: 10px; /* Adjusted margin */
+        }
+    </style>
+</head>
+
+<body>
+
+    <h2></h2>
+
+    <div id="formContainer">
+<br>
+<br>
+        <!-- Your form elements -->
+        <form id="selectionForm">
+            <h1>What did the two shadow people do? </h1>
+            <!-- Error message container -->
+            <div id="error-message"></div>
+
+            <!-- Add text field for user input -->
+            <div class="input-box">
+                <input type="text" id="userInput" placeholder="enter text" autocapitalize="off">
+            </div>
+
+            <!-- Add submit button -->
+            <button type="submit" id="submit-button">Submit</button>
+        </form>
+    </div>
+
+    <script>
+        document.getElementById('selectionForm').addEventListener('submit', function (event) {
+            event.preventDefault(); // Prevent the default form submission
+
+            console.log('Form submitted!'); // Log to check if the form submission is triggered
+
+            // Your form submission logic
+            const errorMessage = document.getElementById('error-message');
+            errorMessage.textContent = ""; // Clear any previous error messages
+
+            // Replace with your actual correct answer
+            const correctWord = "summonedsomething"
+            // Get user input
+            const userInput = document.getElementById('userInput').value;
+
+            // Check if the user's input matches the correct word
+            const isCorrect = userInput.trim().toLowerCase() === correctWord.toLowerCase();
+
+            if (!isCorrect) {
+                setErrorMessage('No, try again.');
+                return;
+            }
+
+            // If answer is correct, open the corresponding PDF link
+            console.log('Opening PDF...'); // Log to check if the PDF opening is triggered
+            window.open('https://deadboltmysterysociety.com/the-shadow-people-what-did-they-do-unlock/', '_blank'); // Opens the PDF in a new window
+        });
+
+        function setErrorMessage(message) {
+            const errorMessage = document.getElementById('error-message');
+            errorMessage.textContent = message;
+        }
+    </script>
+
+</body>
+
+</html>

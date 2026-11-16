@@ -1,0 +1,202 @@
+{
+  "checks": [
+    {
+      "id": "MAP-F13",
+      "path": "maps/map-floor13-v1.svg",
+      "exists": true,
+      "passed": true
+    },
+    {
+      "id": "OV-SHADOW",
+      "path": "overlays/ov-shadow-v1.svg",
+      "exists": true,
+      "passed": true
+    },
+    {
+      "id": "OV-VIGNETTE",
+      "path": "overlays/ov-vignette-v1.svg",
+      "exists": true,
+      "passed": true
+    },
+    {
+      "id": "OV-CCTV",
+      "path": "overlays/ov-cctv-v1.svg",
+      "exists": true,
+      "passed": true
+    },
+    {
+      "id": "AMB-ROOM",
+      "path": "audio/amb-room-tone-v1.wav",
+      "exists": true,
+      "duration_seconds": 12.0,
+      "passed": true
+    },
+    {
+      "id": "SFX-STATIC",
+      "path": "audio/sfx-recorder-static-v1.wav",
+      "exists": true,
+      "duration_seconds": 4.0,
+      "passed": true
+    },
+    {
+      "id": "SFX-KNOCK",
+      "path": "audio/sfx-three-knocks-v1.wav",
+      "exists": true,
+      "duration_seconds": 2.2,
+      "passed": true
+    },
+    {
+      "id": "SFX-CREAK",
+      "path": "audio/sfx-door-creak-v1.wav",
+      "exists": true,
+      "duration_seconds": 1.6,
+      "passed": true
+    },
+    {
+      "id": "SFX-PAPER",
+      "path": "audio/sfx-paper-v1.wav",
+      "exists": true,
+      "duration_seconds": 0.8,
+      "passed": true
+    },
+    {
+      "id": "SFX-CLICK",
+      "path": "audio/sfx-ui-click-v1.wav",
+      "exists": true,
+      "duration_seconds": 0.15,
+      "passed": true
+    },
+    {
+      "id": "VOICE-EVP",
+      "path": "audio/voice-evp-placeholder-v1.wav",
+      "exists": true,
+      "duration_seconds": 2.0,
+      "passed": true
+    },
+    {
+      "id": "ICON-FOLDER",
+      "path": "icons/icon-folder-v1.svg",
+      "exists": true,
+      "passed": true
+    },
+    {
+      "id": "ICON-CAMERA",
+      "path": "icons/icon-camera-v1.svg",
+      "exists": true,
+      "passed": true
+    },
+    {
+      "id": "ICON-RECORDER",
+      "path": "icons/icon-recorder-v1.svg",
+      "exists": true,
+      "passed": true
+    },
+    {
+      "id": "ICON-NOTES",
+      "path": "icons/icon-notes-v1.svg",
+      "exists": true,
+      "passed": true
+    },
+    {
+      "id": "ICON-BOOK",
+      "path": "icons/icon-book-v1.svg",
+      "exists": true,
+      "passed": true
+    },
+    {
+      "id": "DOCS-DEMO",
+      "path": "documents/demo-documents.json",
+      "exists": true,
+      "passed": true
+    },
+    {
+      "id": "BG-1305",
+      "path": "backgrounds/bg-1305-v1.png",
+      "exists": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "mode": "RGB",
+      "passed": true
+    },
+    {
+      "id": "BG-CORRIDOR",
+      "path": "backgrounds/bg-corridor-v1.png",
+      "exists": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "mode": "RGB",
+      "passed": true
+    },
+    {
+      "id": "BG-STATION",
+      "path": "backgrounds/bg-station-v1.png",
+      "exists": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "mode": "RGB",
+      "passed": true
+    },
+    {
+      "id": "CL-HATCH-CLOSED",
+      "path": "closeups/cl-hatch-closed-v1.png",
+      "exists": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "mode": "RGB",
+      "passed": true
+    },
+    {
+      "id": "CL-HATCH-OPEN",
+      "path": "closeups/cl-hatch-open-v1.png",
+      "exists": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "mode": "RGB",
+      "passed": true
+    },
+    {
+      "id": "CL-HATCH-EMPTY",
+      "path": "closeups/cl-hatch-empty-v1.png",
+      "exists": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "mode": "RGB",
+      "passed": true
+    },
+    {
+      "id": "PROP-RED-BOOK",
+      "path": "props/prop-red-book-v1.png",
+      "exists": true,
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "content_bounds": [
+        0,
+        21,
+        1240,
+        1254
+      ],
+      "passed": true
+    }
+  ],
+  "all_passed": true,
+  "scope": "File integrity, dimensions, alpha, SVG/JSON parse, WAV headers and sample peaks. No in-game or subjective listening approval."
+}

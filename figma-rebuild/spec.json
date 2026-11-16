@@ -1,0 +1,1014 @@
+[
+  {
+    "file": "image 52.png",
+    "name": "01 • Investigation brief",
+    "w": 614,
+    "h": 970,
+    "bg": "blue",
+    "texts": [
+      {
+        "text": "You are the owner and founder of the\nparanormal investigation service, GhostRid.\nPeople hire you to determine the cause and\nsource of their haunting and get rid of it.\nThis typically involves learning as much as\nyou can about the location and the person or\npeople who died there. This is the most recent\njob for which you’ve been hired.",
+        "x": 50,
+        "y": 60,
+        "w": 514,
+        "size": 16.6,
+        "line": 25.5,
+        "font": "IBM Plex Mono",
+        "style": "Bold",
+        "align": "CENTER",
+        "color": "#10131c"
+      },
+      {
+        "text": "Ever since workers began renovations on the 13th\nfloor of the Augustine Hotel, numerous reports have\ncome in about sightings of strange shadow people.\nAre these sightings merely tricks of the light or\nhas all the recent construction awakened something\notherworldly? Grab your EMF meter, head on up to\nthe 13th floor, and investigate to find out the\ntrue answer to this paranormal mystery.",
+        "x": 49,
+        "y": 289,
+        "w": 525,
+        "size": 16.2,
+        "line": 27.5,
+        "font": "IBM Plex Mono",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#10131c"
+      },
+      {
+        "text": "As is the case with every investigation you\nperform, you should do the following:",
+        "x": 49,
+        "y": 540,
+        "w": 520,
+        "size": 16.4,
+        "line": 28,
+        "font": "IBM Plex Mono",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#10131c"
+      },
+      {
+        "text": "1.Read the reports about any deaths that occurred\n  on the 13ᵗʰ floor throughout the location’s\n  history.\n2.Examine the interviews with the workers who\n  have seen the shadow people.\n3.Use the various tools in your paranormal\n  investigation kit to rule out certain spirits.\n4.Cleanse the location of the spirits that need\n  help moving on and collect your fee from the\n  Augustine Hotel.",
+        "x": 62,
+        "y": 622,
+        "w": 516,
+        "size": 16,
+        "line": 28,
+        "font": "IBM Plex Mono",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#10131c"
+      }
+    ],
+    "assets": []
+  },
+  {
+    "file": "Group 6.png",
+    "name": "02 • Deaths on the 13th floor",
+    "w": 686,
+    "h": 1034,
+    "bg": "paper",
+    "texts": [
+      {
+        "text": "DEATHS ON THE 13ᵀᴴ FLOOR",
+        "x": 95,
+        "y": 29,
+        "w": 500,
+        "size": 30,
+        "line": 40,
+        "font": "Oswald",
+        "style": "Regular",
+        "align": "CENTER",
+        "color": "#10131c"
+      },
+      {
+        "text": "*These deaths have been independently confirmed\nvia public records and via psychic.",
+        "x": 94,
+        "y": 77,
+        "w": 508,
+        "size": 14.9,
+        "line": 18.5,
+        "font": "IBM Plex Mono",
+        "style": "Bold",
+        "align": "CENTER",
+        "color": "#10131c"
+      },
+      {
+        "text": "John and Mary Collins: Devoted husband and wife who\ncommitted suicide together in room 1310 back in 2002\nafter finding out that Mary had terminal brain\ncancer and was only expected to live a few more\nweeks. They had been together since high school and\nwere unwilling to go on without each other. They\neach took half a bottle of sleeping pills, downed a\nfifth of whiskey, and died in an eternal embrace.",
+        "x": 101,
+        "y": 130,
+        "w": 505,
+        "size": 14.7,
+        "line": 20.7,
+        "font": "IBM Plex Mono",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#10131c"
+      },
+      {
+        "text": "Fargo Pepper: A local musician known best as the\nfrontman for the band, Zombified Zeus, who was prone\nto massive weekend partying in room 1319. On the\nweekend he died in 2018, sources say Fargo did a\nplethora of drugs including angel dust, meth,\nmushrooms, and cocaine. The coroner ruled the death\nas accidental since it was well known that Fargo\nPepper was a hard partyer and a lover of life.",
+        "x": 101,
+        "y": 315,
+        "w": 505,
+        "size": 14.7,
+        "line": 20.7,
+        "font": "IBM Plex Mono",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#10131c"
+      },
+      {
+        "text": "Brotherhood of the Stars: A doomsday cult who formed\na pact to end it all in anticipation of the arrival\nof the Mother Ship which would take them all to the\n9ᵗʰ Heaven on December 25, 2018. There were five\nmembers in all. Yet, strangely, none of them died as\nthe result of suicide. Instead, the group’s leader,\nBaron Vance, murdered the other four members of the\ncult in a blind rage after he discovered that\nGoddess Athena, a female member of the group with\nwhom he was in love, had actually fallen for Brother\nAnott who was also a member of the group. Grief\nstricken and inconsolable, Baron shot everyone in\nroom 1302 and then shot himself. Or at least that is\nwhat police think. Goddess Athena’s body was never\nfound. Investigators assume that Athena was dead.\nHowever, there hasn’t been any concrete proof to\nsubstantiate that claim.",
+        "x": 101,
+        "y": 499,
+        "w": 505,
+        "size": 14.5,
+        "line": 20.7,
+        "font": "IBM Plex Mono",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#10131c"
+      },
+      {
+        "text": "Members of the group included:\n 1.Baron Vance\n 2.Goddess Athena\n 3.Brother Anott\n 4.Brother Paul\n 5.Brother Black",
+        "x": 100,
+        "y": 872,
+        "w": 505,
+        "size": 14.7,
+        "line": 20.7,
+        "font": "IBM Plex Mono",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#10131c"
+      }
+    ],
+    "assets": []
+  },
+  {
+    "file": "image 55.png",
+    "name": "03 • Witness sightings",
+    "w": 687,
+    "h": 975,
+    "bg": "navy",
+    "texts": [
+      {
+        "text": "SIGHTINGS ON THE 13ᵀᴴ FLOOR",
+        "x": 22,
+        "y": 20,
+        "w": 650,
+        "size": 34,
+        "line": 44,
+        "font": "Oswald",
+        "style": "Regular",
+        "align": "LEFT",
+        "color": "#f0edf5"
+      },
+      {
+        "text": "Trey Garza: ‘Look, I don’t believe in this\nstuff at all. But, I know what I saw. There\nwere two of them. They were people that looked\nlike shadows. They were darting back and forth\nacross the hall, going from room to room. It\nwas impossible to tell whether they were male\nor female. But, they had definite human\ncharacteristics. And yes, I’m sure it wasn’t\nsomebody playing a prank. We’ve been doing work\non the 13ᵗʰ floor for about three weeks now,\nand I haven’t seen anything like this until we\nstarted tearing into the sheetrock. Do you\nthink we are disturbing them? I did find\nsomething weird written on the sheetrock we\ntore out. See what you think.’",
+        "x": 198,
+        "y": 70,
+        "w": 465,
+        "size": 14.8,
+        "line": 22.4,
+        "font": "IBM Plex Mono",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#e8e5ef"
+      },
+      {
+        "text": "Alfonzo Smith: ‘This place is haunted. No\ndoubt. My grandmother used to tell me stories\nabout what happens when a spirit can’t rest.\nIt roams and seeks peace without ever finding\nit. She was a psychic, and I believe she passed\nsome of her psychic gifts along to me as well.\nWhen we first started seeing the shadow people,\nI did some automatic writing which is where you\nlet the spirit guide your hand and use you to\npen their own message. The results I got were\ninteresting to say the least.’",
+        "x": 198,
+        "y": 429,
+        "w": 465,
+        "size": 14.8,
+        "line": 22.4,
+        "font": "IBM Plex Mono",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#e8e5ef"
+      },
+      {
+        "text": "Franklin Archer: ‘I don’t know how to answer\nthis specifically. I haven’t seen the shadow\npeople personally, but I know people who have.\nAnd I trust those people. What I do know is\nthat I was hired as a painter, and I paint. I\nspent an entire day painting only to come back\nto the next day and find some sort of graffiti\npainted over what I had done. Not happy! If it\nis shadow people, they need to mind their own\nbusiness and leave the living alone.’",
+        "x": 198,
+        "y": 719,
+        "w": 465,
+        "size": 14.8,
+        "line": 22.4,
+        "font": "IBM Plex Mono",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#e8e5ef"
+      }
+    ],
+    "assets": [
+      [
+        "portrait-trey",
+        23,
+        78,
+        163,
+        215
+      ],
+      [
+        "portrait-alfonzo",
+        24,
+        457,
+        163,
+        216
+      ],
+      [
+        "portrait-franklin",
+        25,
+        724,
+        163,
+        218
+      ]
+    ]
+  },
+  {
+    "file": "image 53.png",
+    "name": "04 • Command center",
+    "w": 866,
+    "h": 630,
+    "bg": "command",
+    "texts": [
+      {
+        "text": "COMMAND CENTER",
+        "x": 170,
+        "y": 70,
+        "w": 530,
+        "size": 50,
+        "line": 64,
+        "font": "Oswald",
+        "style": "Medium",
+        "align": "CENTER",
+        "color": "#10131c"
+      },
+      {
+        "text": "In some paranormal investigations, cameras are set up in various places\nto monitor activity in the location. This place is usually referred to as\na command center/nerve center.",
+        "x": 60,
+        "y": 131,
+        "w": 746,
+        "size": 14.3,
+        "line": 21,
+        "font": "IBM Plex Mono",
+        "style": "Bold",
+        "align": "CENTER",
+        "color": "#10131c"
+      },
+      {
+        "text": "WHAT ARE THE FIRST NAMES\nOF THE SHADOW PEOPLE IN\nALPHABETICAL ORDER?",
+        "x": 12,
+        "y": 229,
+        "w": 265,
+        "size": 13,
+        "line": 16.5,
+        "font": "IBM Plex Mono",
+        "style": "Bold",
+        "align": "CENTER",
+        "color": "#10131c"
+      },
+      {
+        "text": "WHAT DID THE SHADOW\nPEOPLE DO?",
+        "x": 309,
+        "y": 239,
+        "w": 270,
+        "size": 13.5,
+        "line": 18,
+        "font": "IBM Plex Mono",
+        "style": "Bold",
+        "align": "CENTER",
+        "color": "#10131c"
+      },
+      {
+        "text": "SEARCH THE\nPARKING GARAGE",
+        "x": 604,
+        "y": 242,
+        "w": 260,
+        "size": 13.5,
+        "line": 18,
+        "font": "IBM Plex Mono",
+        "style": "Bold",
+        "align": "CENTER",
+        "color": "#10131c"
+      },
+      {
+        "text": "(no caps, no spaces)",
+        "x": 290,
+        "y": 502,
+        "w": 300,
+        "size": 12.5,
+        "line": 18,
+        "font": "IBM Plex Mono",
+        "style": "Bold",
+        "align": "CENTER",
+        "color": "#10131c"
+      }
+    ],
+    "assets": [
+      [
+        "qr-who",
+        85,
+        282,
+        103,
+        103
+      ],
+      [
+        "qr-what",
+        390,
+        279,
+        104,
+        104
+      ],
+      [
+        "qr-garage",
+        687,
+        281,
+        104,
+        104
+      ]
+    ]
+  },
+  {
+    "file": "image 54.png",
+    "name": "05 • Clairvoyant vision",
+    "w": 466,
+    "h": 675,
+    "bg": "blue",
+    "texts": [
+      {
+        "text": "One of the things that got you\ninterested in the paranormal in\nthe first place was a gift of\nclairvoyance that you’ve always\nseemed to have. In the middle\nof your investigation, you get\na vision that there is\nsomething you are supposed to\nread. But what is it and what\nroom number on the 13ᵗʰ floor\nshould you search (spell out)?",
+        "x": 44,
+        "y": 120,
+        "w": 380,
+        "size": 17.5,
+        "line": 29.8,
+        "font": "IBM Plex Mono",
+        "style": "Bold",
+        "align": "CENTER",
+        "color": "#10131c"
+      },
+      {
+        "text": "(no caps, no spaces)",
+        "x": 120,
+        "y": 576,
+        "w": 230,
+        "size": 12.3,
+        "line": 18,
+        "font": "IBM Plex Mono",
+        "style": "Bold",
+        "align": "CENTER",
+        "color": "#10131c"
+      }
+    ],
+    "assets": [
+      [
+        "qr-read",
+        174,
+        459,
+        111,
+        111
+      ]
+    ]
+  },
+  {
+    "file": "image 58.png",
+    "name": "06 • Automatic writing",
+    "w": 431,
+    "h": 452,
+    "bg": "writing",
+    "texts": [
+      {
+        "text": "Alfonzo Smith’s automatic writing:",
+        "x": 25,
+        "y": 45,
+        "w": 395,
+        "size": 16,
+        "line": 21,
+        "font": "IBM Plex Mono",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#e6e0ee"
+      },
+      {
+        "text": "scratches on wall\nthird is first\nfirst is second\nsecond is third\na joke on my name",
+        "x": 38,
+        "y": 97,
+        "w": 377,
+        "size": 45,
+        "line": 62,
+        "font": "Caveat",
+        "style": "Bold",
+        "align": "CENTER",
+        "color": "#10131c"
+      }
+    ],
+    "assets": []
+  },
+  {
+    "file": "image 59.png",
+    "name": "07 • Scratched sheetrock",
+    "w": 423,
+    "h": 424,
+    "bg": "paper",
+    "texts": [
+      {
+        "text": "Found written/scratched on torn\nout sheetrock:",
+        "x": 38,
+        "y": 51,
+        "w": 350,
+        "size": 13.8,
+        "line": 20,
+        "font": "IBM Plex Mono",
+        "style": "Bold",
+        "align": "CENTER",
+        "color": "#10131c"
+      }
+    ],
+    "assets": []
+  },
+  {
+    "file": "image 60.png",
+    "name": "08 • Graffiti cipher",
+    "w": 427,
+    "h": 428,
+    "bg": "wallpaper",
+    "texts": [
+      {
+        "text": "xF BSFOu\nNBSSJFE\ncVu BSF IF\nBOETIF",
+        "x": 36,
+        "y": 44,
+        "w": 365,
+        "size": 62,
+        "line": 81,
+        "font": "Caveat Brush",
+        "style": "Regular",
+        "align": "CENTER",
+        "color": "#10131c"
+      }
+    ],
+    "assets": []
+  },
+  {
+    "file": "image 61.png",
+    "name": "09 • EVP transcript",
+    "w": 686,
+    "h": 1060,
+    "bg": "evp",
+    "texts": [
+      {
+        "text": "Upon spending a night on the 13ᵗʰ floor, you spot the elusive\nshadow figures on more than one occasion. You are fairly\ncertain there are at least two of them. You decide to do a\ncall and response EVP session in hopes one or both of them\nwill communicate. This is the transcript of the result:",
+        "x": 70,
+        "y": 82,
+        "w": 560,
+        "size": 15.5,
+        "line": 23,
+        "font": "IBM Plex Mono",
+        "style": "Regular",
+        "align": "CENTER",
+        "color": "#10131c"
+      },
+      {
+        "text": "You: Hi, if you’re one of the shadow people. I want to\ntalk. If you can speak my audio recorder may catch it.\nI mean you no harm.\n\n*hissing sounds*\n\nYou: Can you make a sign? Can you make a noise of some\nsort?\n\n*loud bang*\n\nYou: Thank you for that. I want to know more about you.\nHow did you die?\n\n*hissing sounds*\n\nYou: Ok, can you tell me your name instead? Or tell me\nsomething about you?\n\n...mistake...\n\nYou: You made a mistake? Is that what you are trying to\ntell me.\n\n...there brad cloth believer fixed hobo cook sin wifi\nalive...\n\nYou: Can you explain what you mean by that?\n\n*hissing sounds*\n\nYou: Please keep talking.\n\n*hissing sounds*\n\nYou: Help me out here?\n\n...yz is your guide...",
+        "x": 80,
+        "y": 216,
+        "w": 560,
+        "size": 15.2,
+        "line": 20.3,
+        "font": "IBM Plex Mono",
+        "style": "Regular",
+        "align": "LEFT",
+        "color": "#10131c"
+      }
+    ],
+    "assets": []
+  },
+  {
+    "file": "image 62.png",
+    "name": "10 • Paranormal tools",
+    "w": 614,
+    "h": 916,
+    "bg": "orange",
+    "texts": [
+      {
+        "text": "PARANORMAL TOOLS",
+        "x": 80,
+        "y": 42,
+        "w": 455,
+        "size": 37,
+        "line": 49,
+        "font": "Oswald",
+        "style": "Regular",
+        "align": "CENTER",
+        "color": "#10131c"
+      },
+      {
+        "text": "a. crucifix\nb. holy water\nc. digital voice recorder\nd. EMF meter\nd. ovilus\ne. laser grid\nf. motion sensor\ng. blood\nh. pendulum\ni. ouija board\nj. dowsing rods\nk. prayer book\nl. rosary\nm. salt\nn. sage\no. Palo santo\np. smoky quartz\nq. candles\nr. incense\ns. bell\nt. sigils\nu. heat camera\nv. digital camera\nw. Polaroid camera\nx. night vision\ny. spirit box\nz. Trifield meter",
+        "x": 80,
+        "y": 97,
+        "w": 455,
+        "size": 20.3,
+        "line": 28.5,
+        "font": "IBM Plex Mono",
+        "style": "Bold",
+        "align": "CENTER",
+        "color": "#382116"
+      }
+    ],
+    "assets": []
+  },
+  {
+    "file": "image 63.png",
+    "name": "11 • Cleansing question",
+    "w": 635,
+    "h": 916,
+    "bg": "hallway",
+    "texts": [
+      {
+        "text": "WHAT DO YOU\nUSE TO CLEANSE\nTHE 13ᵀᴴ FLOOR?",
+        "x": 100,
+        "y": 280,
+        "w": 440,
+        "size": 39.5,
+        "line": 57,
+        "font": "IBM Plex Mono",
+        "style": "Bold",
+        "align": "CENTER",
+        "color": "#10131c"
+      },
+      {
+        "text": "(in order,\nno caps, no spaces)",
+        "x": 145,
+        "y": 607,
+        "w": 345,
+        "size": 20.5,
+        "line": 26,
+        "font": "IBM Plex Mono",
+        "style": "Bold",
+        "align": "CENTER",
+        "color": "#eee5ed"
+      }
+    ],
+    "assets": [
+      [
+        "qr-end",
+        245,
+        458,
+        140,
+        140
+      ]
+    ]
+  },
+  {
+    "file": "source-web/Who-are-the-shadow-people.png",
+    "name": "12 • Who are the shadow people",
+    "w": 963,
+    "h": 1800,
+    "bg": "web",
+    "texts": [
+      {
+        "text": "You are reasonably certain that the two shadow people\nlurking the corridors of the 13ᵗʰ floor are Fargo Pepper and\nGoddess Athena (or Katie Brown as she was more\ncommonly known by those outside the cult). Hoping to get\nresults now that you know their names, you decide to do\nanother EVP session with a digital voice recorder.",
+        "x": 120.65853252237807,
+        "y": 128.00000004661393,
+        "w": 715,
+        "size": 32,
+        "line": 34.01162809011629,
+        "font": "Cormorant Garamond",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#ffffff"
+      },
+      {
+        "text": "You: Fargo and Katie, are you with me? If so, you can speak\nand my recorder will possibly pick up your voices.",
+        "x": 120.65853232547057,
+        "y": 373.9999995843568,
+        "w": 715,
+        "size": 32,
+        "line": 31.755814383870927,
+        "font": "Cormorant Garamond",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#ffffff"
+      },
+      {
+        "text": "*here*",
+        "x": 120.65853584225594,
+        "y": 476.3953491115663,
+        "w": 715,
+        "size": 32,
+        "line": 36,
+        "font": "Cormorant Garamond",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#ffffff"
+      },
+      {
+        "text": "You: Ok great, I just want to understand what happened to\nyou.",
+        "x": 120.65853722663904,
+        "y": 546.9999990944372,
+        "w": 715,
+        "size": 32,
+        "line": 41.89534983772705,
+        "font": "Cormorant Garamond",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#ffffff"
+      },
+      {
+        "text": "*tragedy*",
+        "x": 120.65853693782373,
+        "y": 649.0697678185184,
+        "w": 715,
+        "size": 32,
+        "line": 36,
+        "font": "Cormorant Garamond",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#ffffff"
+      },
+      {
+        "text": "You: There was a tragedy. Were the two of you in love?",
+        "x": 120.65853988647963,
+        "y": 721.9999993251965,
+        "w": 715,
+        "size": 32,
+        "line": 36,
+        "font": "Cormorant Garamond",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#ffffff"
+      },
+      {
+        "text": "*secret*",
+        "x": 120.65853628733258,
+        "y": 787.732559152974,
+        "w": 715,
+        "size": 32,
+        "line": 36,
+        "font": "Cormorant Garamond",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#ffffff"
+      },
+      {
+        "text": "You: Your love was a secret?",
+        "x": 120.65853775836858,
+        "y": 860.9883716667496,
+        "w": 715,
+        "size": 32,
+        "line": 36,
+        "font": "Cormorant Garamond",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#ffffff"
+      },
+      {
+        "text": "*trapped*",
+        "x": 120.65853942366797,
+        "y": 929.0116280562673,
+        "w": 715,
+        "size": 32,
+        "line": 36,
+        "font": "Cormorant Garamond",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#ffffff"
+      },
+      {
+        "text": "You: Trapped by the cult?",
+        "x": 120.65853609695924,
+        "y": 1001.9999995601919,
+        "w": 715,
+        "size": 32,
+        "line": 36,
+        "font": "Cormorant Garamond",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#ffffff"
+      },
+      {
+        "text": "*Baron*",
+        "x": 120.65853663566233,
+        "y": 1070.2906979176296,
+        "w": 715,
+        "size": 32,
+        "line": 36,
+        "font": "Cormorant Garamond",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#ffffff"
+      },
+      {
+        "text": "You: She was trapped by Baron Vance. What did you do\nabout it?",
+        "x": 120.61033997398701,
+        "y": 1140.930233266346,
+        "w": 715,
+        "size": 32,
+        "line": 36.401684874628245,
+        "font": "Cormorant Garamond",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#ffffff"
+      },
+      {
+        "text": "*off the record*",
+        "x": 120.65853755442846,
+        "y": 1242.9651160163135,
+        "w": 715,
+        "size": 32,
+        "line": 36,
+        "font": "Cormorant Garamond",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#ffffff"
+      },
+      {
+        "text": "You: Ok, off the record, sure. But, if you're both dead then\nyou don't have anything to worry about. You can talk to\nme.",
+        "x": 120.65853351862216,
+        "y": 1313.6046510925007,
+        "w": 715,
+        "size": 32,
+        "line": 39.24418623690599,
+        "font": "Cormorant Garamond",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#ffffff"
+      },
+      {
+        "text": "*er...ay...and...you...king...kin...greed”",
+        "x": 120.65855485634444,
+        "y": 1452.267441855582,
+        "w": 715,
+        "size": 32,
+        "line": 36,
+        "font": "Cormorant Garamond",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#ffffff"
+      },
+      {
+        "text": "You: I am not sure what that means. Can you tell me\nwhere to look?",
+        "x": 120.65853813609301,
+        "y": 1525.5232561071564,
+        "w": 715,
+        "size": 32,
+        "line": 34.011628022682316,
+        "font": "Cormorant Garamond",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#ffffff"
+      },
+      {
+        "text": "*1313*",
+        "x": 120.65853901189769,
+        "y": 1627.5581396499138,
+        "w": 715,
+        "size": 32,
+        "line": 36,
+        "font": "Cormorant Garamond",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#ffffff"
+      }
+    ],
+    "assets": []
+  },
+  {
+    "file": "source-web/What-do-you-read.png",
+    "name": "13 • Incantations book",
+    "w": 963,
+    "h": 1800,
+    "bg": "webbook",
+    "texts": [
+      {
+        "text": "After searching room 1305, you eventually find a\nred book located in the air vent. It's a spell\nbook of some sort. The following note was left\ninside:",
+        "x": 168,
+        "y": 577.9999998022746,
+        "w": 630,
+        "size": 32,
+        "line": 42.01162740364248,
+        "font": "Cormorant Garamond",
+        "style": "Bold",
+        "align": "CENTER",
+        "color": "#0d0b09"
+      },
+      {
+        "text": "\"We've secretly been renting this room for a\nwhile so no one would find out about us. The\n13ᵗʰ floor isn't ideal since there is a chance\nsomeone will see us. But the 13ᵗʰ floor is\nessential to what we're about to do. The\nnumber is significant. It holds power. We've\ntried to keep things hidden. But we're tired of\nhiding and are about to do something drastic.\nShe means everything to me. In case this goes\nbadly, look for this car in the parking garage.\nThe license plate is made up of the following\nletters:",
+        "x": 168,
+        "y": 784.9999994692212,
+        "w": 630,
+        "size": 32,
+        "line": 42.19767441729164,
+        "font": "Cormorant Garamond",
+        "style": "Bold",
+        "align": "CENTER",
+        "color": "#0d0b09"
+      },
+      {
+        "text": "-Look to the Heavenly number.\n-What does a pirate say?\n-A pool stick is called this.\n-My Goodness, Wow, Lord.\n-Mine, Killer, Honey.\n-Sweet, Pot, V.\"",
+        "x": 168,
+        "y": 1331.9186045808729,
+        "w": 630,
+        "size": 32,
+        "line": 41.42580185078941,
+        "font": "Cormorant Garamond",
+        "style": "Bold",
+        "align": "CENTER",
+        "color": "#0d0b09"
+      },
+      {
+        "text": "INCANTATIONS",
+        "x": 247,
+        "y": 307,
+        "w": 575,
+        "size": 98,
+        "line": 120,
+        "font": "Oswald",
+        "style": "Medium",
+        "align": "CENTER",
+        "color": "#613314"
+      }
+    ],
+    "assets": []
+  },
+  {
+    "file": "source-web/Parking-Garage.png",
+    "name": "14 • Parking garage",
+    "w": 963,
+    "h": 1800,
+    "bg": "web",
+    "texts": [
+      {
+        "text": "You find the license plate and the car attached to it without\ntoo much trouble. The car is a black 1970 Chevrolet Chevelle.\nFrom the look of things, the car has been sitting for a while to\njudge by the thick layer of dust that covers it. A valet notices\nyou looking at the car and approaches.",
+        "x": 110.21951398197413,
+        "y": 128.00000049138134,
+        "w": 750,
+        "size": 31.5,
+        "line": 36.499999730491,
+        "font": "Cormorant Garamond",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#ffffff"
+      },
+      {
+        "text": "'This car has been here for years,\" the valet explains. \"I don't\nthink it even runs now. The old owner of the hotel didn't care\nthat it was here. He didn't care about most things which is\nwhy he lost the hotel and someone else was able to buy it for a\nsteal. The new owner, however, is set on fixing this place up.\nSo, I would expect that this car will be towed to the junkyard\nor sold at some point in the very near future. If you want to\ncheck the car out, be my guest. It's nothing to me. The key is\nunder the visor.\"",
+        "x": 110.21952984905856,
+        "y": 340.0000007654916,
+        "w": 750,
+        "size": 31.5,
+        "line": 36.27325575502488,
+        "font": "Cormorant Garamond",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#ffffff"
+      },
+      {
+        "text": "There isn't much of note inside the car. But, when you look in\nthe trunk, you discover an old turntable and a single vinyl\nrecord.",
+        "x": 112.65205921690169,
+        "y": 704.0000002649078,
+        "w": 750,
+        "size": 31.5,
+        "line": 36.33615875840633,
+        "font": "Cormorant Garamond",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#ffffff"
+      },
+      {
+        "text": "1. Summer One Day\n2. So, Me and You...",
+        "x": 372,
+        "y": 1110,
+        "w": 220,
+        "size": 24,
+        "line": 36,
+        "font": "Oswald",
+        "style": "Light",
+        "align": "CENTER",
+        "color": "#160e03"
+      },
+      {
+        "text": "3. Thinking\n4. King Greed",
+        "x": 372,
+        "y": 1238,
+        "w": 220,
+        "size": 24,
+        "line": 36,
+        "font": "Oswald",
+        "style": "Light",
+        "align": "CENTER",
+        "color": "#160e03"
+      }
+    ],
+    "assets": []
+  },
+  {
+    "file": "source-web/What-did-they-do.png",
+    "name": "15 • What did they do",
+    "w": 812,
+    "h": 1800,
+    "bg": "web",
+    "texts": [
+      {
+        "text": "You get a bad feeling the moment you set foot in room\n1313. There is a heaviness in the air and you sense an evil\npresence. The spirits of Fargo and Katie told you that they\nsummoned something in 1313. After spending several\nminutes in the room, you notice a piece of sheetrock has\nbeen replaced on one section of the wall. You use a\npocketknife to dig at the seam enough to allow you to get\nyour fingers behind it and pull the sheetrock away from the\nstud. You see the mummified remains of a woman behind\nthe wall. She is holding a note. It reads:",
+        "x": 94.60449549073678,
+        "y": 78.72093043216442,
+        "w": 620,
+        "size": 27.7,
+        "line": 31.279069328755213,
+        "font": "Cormorant Garamond",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#ffffff"
+      },
+      {
+        "text": "\"We were madly in love. But, the cult wasn't going to let he\nr go. Baron wasn't going to let her go. In all my years of pl\naying with Zombified Zeus, I had heard stories about peopl\ne dabbling in the occult and dealing in the black arts. I sug\ngested that she and I do something like that to try and tur\nn the tables on the cult. We were going to call something f\north to do our bidding. I even got my hands on an incantat\nion book. It seems like an idiotic idea now. At the time, i\nt was genius. Something like that couldn't land either of u\ns in jail. The courts don't recognize the supernatura\n1. So, if our plan worked, she could be free of the cult. I\nf not, we were free to try something else. As it turned out,\nour plan worked too well. We summoned something.\nThat something-an evil spirit, a demon, whatever yo\nu want to call it-possessed Baron Vance and drove him t\no kill the other members of the group and himself. He\nwould have killed Katie too if I hadn't saved her. But,\nonce Baron was dead, whatever was inside him, found Katie\nand took control of her, forcing her to attack me. She tri\ned to kill me, and ultimately, I stabbed her while defending m\nyself. I know it wasn't her though. But, it broke my he\nart. Every bit of this was my fault. I put her in this wall,\nhoping that what we had unleashed would never see the lig\nht of day again. But, eventually, the evil came for me, and\nit's inside me now. I'm barely in control of myself. I can\nfeel it getting stronger. I'm writing this letter before I head\nback to my room where a bowl of pills awaits me.\nHopefully, this ends the tragedy, and I can be with my\nKatie again. I want to spend my eternity with her. One\nmore thing though. I used a ouija board to ask whoever or\nwhatever was out there listening how to get rid of this\nunclean spirit, and they told me to do the following: light\nsome candles, burn some sage, recite a very specific passage\nfrom a certain prayer book, draw some sigils on the wall,\ncut my palm with a knife and let the blood drip down, and\nthen ring a bell. If the presence is still roaming the\nthirteenth floor, I would try this as a means of getting rid\nof it. I would do it myself, but I can't since it lives inside of\nme now. It won't allow it. I'm not even sure if it will allow\nme to take my own life. We will see.\"",
+        "x": 94.3953537739456,
+        "y": 413.7808933481224,
+        "w": 620,
+        "size": 27.7,
+        "line": 31.24418556486239,
+        "font": "Cormorant Garamond",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#ffffff"
+      }
+    ],
+    "assets": []
+  },
+  {
+    "file": "source-web/Soltion.png",
+    "name": "16 • Solution",
+    "w": 963,
+    "h": 1800,
+    "bg": "web",
+    "texts": [
+      {
+        "text": "The evil presence in 1313 that Fargo and Katie\nsummoned knows that you are about to cleanse the\nhotel and is none too happy about it. Items are hurled\nacross the room. Unseen hands push you and scratch\nyou. Your name is whispered with malevolent intent.\nBut, you stay focused. Using all of the items and steps\nmentioned in Fargo's notes, you follow the instructions\nperfectly, and when you are done, the room and the\nentire building feels immediately lighter. It feels free.",
+        "x": 105.0000060711073,
+        "y": 115.00000055634254,
+        "w": 750,
+        "size": 34,
+        "line": 44.16860482363609,
+        "font": "Cormorant Garamond",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#ffffff"
+      },
+      {
+        "text": "As if on cue, two shadow people emerge from room\n1305. At first the two figures are distinct and separate.\nThen, inexplicably, the two meld into one shadow\nfigure. The sight confuses you at first until you\nremember that Fargo and Katie were in love. And just\nas two people symbolically become one when they get\nmarried, Fargo and Katie have literally done their\nversion of that in front of your very eyes.",
+        "x": 104.99998774474017,
+        "y": 551.999999403062,
+        "w": 750,
+        "size": 34,
+        "line": 44.058138434082025,
+        "font": "Cormorant Garamond",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#ffffff"
+      },
+      {
+        "text": "\"Thank you,\" they whisper before exploding in a puff\nof smoke and disappearing before your very eyes. The\nsight might be touching if it wasn't so strange.",
+        "x": 104.99998718640789,
+        "y": 942.0000000770605,
+        "w": 750,
+        "size": 34,
+        "line": 44.49999964007003,
+        "font": "Cormorant Garamond",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#ffffff"
+      },
+      {
+        "text": "As far as you are concerned, their troubled souls have\nmoved on to the next life and the demonic presence\nthey summoned has been vanquished. The 13ᵗʰ floor is\nnow cleansed.",
+        "x": 104.79221254064488,
+        "y": 1117.0000001631483,
+        "w": 750,
+        "size": 34,
+        "line": 40.54971684600332,
+        "font": "Cormorant Garamond",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#ffffff"
+      },
+      {
+        "text": "You head to the manager's office to give him the good\nnews and wonder if you should bill the hotel extra for\ndoing battle with the forces of evil. It certainly seems\nlike it would be worth an extra 10%. Onto the next\nhaunting.",
+        "x": 104.96475638422112,
+        "y": 1337.0000001261155,
+        "w": 750,
+        "size": 34,
+        "line": 44.163378540951385,
+        "font": "Cormorant Garamond",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#ffffff"
+      },
+      {
+        "text": "Case closed.",
+        "x": 107.49169720727946,
+        "y": 1598.0891568945913,
+        "w": 750,
+        "size": 34,
+        "line": 36,
+        "font": "Cormorant Garamond",
+        "style": "Bold",
+        "align": "LEFT",
+        "color": "#ffffff"
+      }
+    ],
+    "assets": []
+  }
+]
