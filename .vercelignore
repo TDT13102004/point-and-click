@@ -1,0 +1,9 @@
+# Only the game and its assets are published. Story documents, the original
+# publisher's pages (source-web), references and tooling stay out.
+/*
+!/game
+!/assets
+!/vercel.json
+/assets/game
+/assets/demo-v1/source
+/assets/demo-v1/contact-sheet.png

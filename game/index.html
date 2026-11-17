@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#0d110f">
+<title>Những bóng người trên tầng 13 — bản chơi thử</title>
+<meta name="description" content="Bản chơi thử: khu tập thể An Vân, căn 1305.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+  <header class="bar">
+    <span class="where" id="where">Tầng 12</span>
+    <div class="inv" id="inv" aria-label="Vật phẩm"></div>
+    <div class="tools">
+      <button id="hint" title="Hiện các điểm bấm">Gợi ý</button>
+      <button id="sound" aria-pressed="true" title="Bật/tắt âm thanh">Âm thanh: bật</button>
+      <button id="menu" title="Chơi lại">Chơi lại</button>
+    </div>
+  </header>
+
+  <main class="frame">
+    <div class="stage" id="stage">
+      <img class="base" id="base" alt="">
+      <div class="layers" id="layers"></div>
+      <div class="spots" id="spots"></div>
+      <button class="back" id="back" hidden>← Quay lại</button>
+    </div>
+  </main>
+
+  <p class="caption" id="caption" aria-live="polite"></p>
+</div>
+
+<div class="modal" id="modal" hidden>
+  <div class="sheet" role="dialog" aria-modal="true" aria-labelledby="mtitle">
+    <h2 id="mtitle"></h2>
+    <div id="mbody"></div>
+    <button id="mclose">Đóng</button>
+  </div>
+</div>
+
+<div class="cover" id="cover">
+  <div class="cover-in">
+    <p class="kicker">An Linh · Hồ sơ khu tập thể An Vân</p>
+    <h1>Những bóng người<br>trên tầng 13</h1>
+    <p>Bản chơi thử cho nhóm phát triển. Hình và âm thanh là bản tạm (demo v1).</p>
+    <p class="small">Nên chơi máy ngang, có tai nghe. Bấm vào đồ vật để xem xét.</p>
+    <button id="start" class="primary">Bắt đầu</button>
+    <button id="cont" class="primary" hidden>Chơi tiếp</button>
+  </div>
+</div>
+
+<script src="game.js"></script>
+</body>
+</html>
