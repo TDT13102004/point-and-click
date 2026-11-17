@@ -8,7 +8,7 @@ Game point-and-click chạy trên trình duyệt, không cần cài đặt hay b
 python3 -m http.server 4173
 ```
 
-Rồi mở http://localhost:4173/game/ (chạy lệnh ở thư mục gốc repo).
+Rồi mở http://localhost:4173/ (chạy lệnh ở thư mục gốc repo). Trang chính là `index.html` ở gốc repo; code nằm trong `game/`.
 
 ## Nội dung
 
@@ -23,4 +23,4 @@ Chiếu nghỉ tầng 12 → nghe băng EVP → lên hành lang tầng 13 → v�
 
 ## Triển khai
 
-Vercel phục vụ thư mục gốc dưới dạng web tĩnh. `/` chuyển tới `/game/`. `.vercelignore` chỉ đưa `game/` và `assets/` lên; tài liệu truyện, `source-web/` và file tham khảo không được public.
+Vercel phục vụ thư mục gốc dưới dạng web tĩnh. Trang chính unsolvedcasevietnam.com/point-and-click/ chuyển tiếp (proxy) tới dự án Vercel này, nên mọi đường dẫn trong game phải là đường dẫn tương đối. `.vercelignore` chỉ đưa `index.html`, `game/` và `assets/` lên; tài liệu truyện, `source-web/` và file tham khảo không được public.

@@ -1,6 +1,7 @@
 # Only the game and its assets are published. Story documents, the original
 # publisher's pages (source-web), references and tooling stay out.
 /*
+!/index.html
 !/game
 !/assets
 !/vercel.json

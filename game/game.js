@@ -3,7 +3,7 @@
    assets/demo-v1/manifest.json, so a v2 file registered there shows up here. */
 (() => {
   'use strict';
-  const ASSET_ROOT = '../assets/demo-v1/';
+  const ASSET_ROOT = 'assets/demo-v1/'; // relative to index.html at the site root
   const SAVE_KEY = 'anvan-demo-v1';
 
   // Fallback paths, used if manifest.json cannot be loaded.
