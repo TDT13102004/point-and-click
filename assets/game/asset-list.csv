@@ -1,0 +1,138 @@
+﻿ID,Thư mục,Tên file,Loại,Cảnh,Chương tài liệu,Mô tả,Thông số,Ưu tiên,Trạng thái,Phụ trách,Hạn,Link bản nháp,Ghi chú
+BG-COURTYARD,assets/game/backgrounds/,bg-courtyard-v1.png,Ảnh nền,Mở đầu,01,"Sân phơi chật hẹp và chân cầu thang khối C, chạng vạng","PNG 1920×1080 (16:9), sRGB, không chữ; giữ góc máy cố định",P1,Chưa làm,,,,
+BG-STAIRWELL,assets/game/backgrounds/,bg-stairwell-v1.png,Ảnh nền,Mở đầu,01,"Cầu thang khối C lên tầng 13, cửa sắt cầu thang","PNG 1920×1080 (16:9), sRGB, không chữ; giữ góc máy cố định",P1,Chưa làm,,,,
+BG-CORRIDOR,assets/game/backgrounds/,bg-corridor-v1.png,Ảnh nền,Hành lang tầng 13,"01, 03",Hành lang tầng 13 (đoạn có căn hộ bên phải),"PNG 1920×1080 (16:9), sRGB, không chữ; giữ góc máy cố định",P0,Có v1 (placeholder),,,,v1 1672×941 trong assets/demo-v1
+BG-CORRIDOR-FAR,assets/game/backgrounds/,bg-corridor-far-v1.png,Ảnh nền,Hành lang tầng 13,03,"Đầu kia hành lang (phía 1311–1319), dây điện chằng chịt, ô thông gió phủ bụi","PNG 1920×1080 (16:9), sRGB, không chữ; giữ góc máy cố định",P1,Chưa làm,,,,Biển số căn hộ dựng bằng code
+BG-STATION,assets/game/backgrounds/,bg-station-v1.png,Ảnh nền,Điểm theo dõi tầng 12,09,"Chiếu nghỉ tầng 12, bàn cũ kê laptop và màn hình","PNG 1920×1080 (16:9), sRGB, không chữ; giữ góc máy cố định",P0,Có v1 (placeholder),,,,Màn hình laptop để trống
+BG-STATION-REVERSE,assets/game/backgrounds/,bg-station-reverse-v1.png,Ảnh nền,Điểm theo dõi tầng 12,09,Góc ngược từ bàn theo dõi nhìn lên cầu thang tầng 13,"PNG 1920×1080 (16:9), sRGB, không chữ; giữ góc máy cố định",P2,Chưa làm,,,,
+BG-1305,assets/game/backgrounds/,bg-1305-v1.png,Ảnh nền,Căn 1305,12,"Phòng sinh hoạt căn 1305: cửa sổ, bàn, ô kỹ thuật, cửa phòng ngủ","PNG 1920×1080 (16:9), sRGB, không chữ; giữ góc máy cố định",P0,Có v1 (placeholder),,,,Giữ hotspot trong integration.json
+BG-1305-BEDROOM,assets/game/backgrounds/,bg-1305-bedroom-v1.png,Ảnh nền,Căn 1305,12,Phòng ngủ căn 1305,"PNG 1920×1080 (16:9), sRGB, không chữ; giữ góc máy cố định",P1,Chưa làm,,,,
+BG-1305-KITCHEN,assets/game/backgrounds/,bg-1305-kitchen-v1.png,Ảnh nền,Căn 1305,12,Bếp nhỏ căn 1305,"PNG 1920×1080 (16:9), sRGB, không chữ; giữ góc máy cố định",P2,Chưa làm,,,,
+BG-1305-REVERSE,assets/game/backgrounds/,bg-1305-reverse-v1.png,Ảnh nền,Căn 1305,12,Góc ngược phòng sinh hoạt nhìn ra cửa chính,"PNG 1920×1080 (16:9), sRGB, không chữ; giữ góc máy cố định",P2,Chưa làm,,,,
+BG-GARAGE,assets/game/backgrounds/,bg-garage-v1.png,Ảnh nền,Nhà để xe,13,"Nhà để xe chung sau sân, bàn ghi sổ của bác bảo vệ","PNG 1920×1080 (16:9), sRGB, không chữ; giữ góc máy cố định",P1,Chưa làm,,,,
+BG-GARAGE-BAY,assets/game/backgrounds/,bg-garage-bay-v1.png,Ảnh nền,Nhà để xe,13,"Gian để ô tô bị dột, có Toyota Camry 1993 đen phủ bụi","PNG 1920×1080 (16:9), sRGB, không chữ; giữ góc máy cố định",P1,Chưa làm,,,,Biển số giả dựng bằng code
+BG-1313,assets/game/backgrounds/,bg-1313-v1.png,Ảnh nền,Căn 1313,15,"Căn 1313 rèm kín, ẩm mốc, một mảng vách có đường nối lạ","PNG 1920×1080 (16:9), sRGB, không chữ; giữ góc máy cố định",P1,Chưa làm,,,,
+BG-1313-RITUAL,assets/game/backgrounds/,bg-1313-ritual-v1.png,Ảnh nền,Nghi thức,"11, 16","Căn 1313 lúc làm lễ: đồ đạc xô lệch, ánh nến","PNG 1920×1080 (16:9), sRGB, không chữ; giữ góc máy cố định",P1,Chưa làm,,,,Cùng góc máy với BG-1313
+BG-COURTYARD-NIGHT,assets/game/backgrounds/,bg-courtyard-night-v1.png,Ảnh nền,Kết thúc,16,"Bàn nước dưới chân cầu thang ban đêm, ghế nhựa, ấm trà","PNG 1920×1080 (16:9), sRGB, không chữ; giữ góc máy cố định",P1,Chưa làm,,,,
+BG-TITLE,assets/game/backgrounds/,bg-title-v1.png,Ảnh nền,Giao diện,-,"Màn hình tiêu đề: khối C nhìn từ sân, tầng 13 tối","PNG 1920×1080 (16:9), sRGB, không chữ; giữ góc máy cố định",P1,Chưa làm,,,,Tên game dựng bằng code hoặc UI-LOGO
+CL-HATCH-CLOSED,assets/game/closeups/,cl-hatch-closed-v1.png,Cận cảnh,Căn 1305,12,Ô kỹ thuật/thông gió đóng,"PNG 1920×1080, cùng ánh sáng với cảnh gốc",P0,Có v1 (placeholder),,,,
+CL-HATCH-OPEN,assets/game/closeups/,cl-hatch-open-v1.png,Cận cảnh,Căn 1305,12,"Ô mở, có sách đỏ","PNG 1920×1080, cùng ánh sáng với cảnh gốc",P0,Có v1 (placeholder),,,,
+CL-HATCH-EMPTY,assets/game/closeups/,cl-hatch-empty-v1.png,Cận cảnh,Căn 1305,12,Ô mở sau khi lấy sách,"PNG 1920×1080, cùng ánh sáng với cảnh gốc",P0,Có v1 (placeholder),,,,
+CL-GRAFFITI,assets/game/closeups/,cl-graffiti-v1.png,Cận cảnh,Hành lang tầng 13,"03, 06",Bức tường mới sơn bị vẽ chữ chằng chịt,"PNG 1920×1080, cùng ánh sáng với cảnh gốc. Vùng chữ để trống: chữ/manh mối dựng bằng code.",P1,Chưa làm,,,,Câu đố mã Caesar — chữ phải sửa được
+CL-DRYWALL-CARVINGS,assets/game/closeups/,cl-drywall-carvings-v1.png,Cận cảnh,Hành lang tầng 13,"03, 05","Tấm vách thạch cao đã tháo, có vết khắc","PNG 1920×1080, cùng ánh sáng với cảnh gốc. Vùng chữ để trống: chữ/manh mối dựng bằng code.",P1,Chưa làm,,,,Ảnh gốc hinh-giu-nguyen/vet-khac.png chưa có trong repo
+CL-DOOR-1305,assets/game/closeups/,cl-door-1305-v1.png,Cận cảnh,Hành lang tầng 13,12,Cửa căn 1305 (cửa gỗ + cửa sắt xếp),"PNG 1920×1080, cùng ánh sáng với cảnh gốc",P2,Chưa làm,,,,
+CL-DOOR-1313,assets/game/closeups/,cl-door-1313-v1.png,Cận cảnh,Hành lang tầng 13,15,Cửa căn 1313,"PNG 1920×1080, cùng ánh sáng với cảnh gốc",P2,Chưa làm,,,,
+CL-RED-BOOK-OPEN,assets/game/closeups/,cl-red-book-open-v1.png,Cận cảnh,Căn 1305,12,"Sách đỏ mở hai trang, kẹp mảnh giấy","PNG 1920×1080, cùng ánh sáng với cảnh gốc. Vùng chữ để trống: chữ/manh mối dựng bằng code.",P1,Chưa làm,,,,
+CL-CAR-PLATE,assets/game/closeups/,cl-car-plate-v1.png,Cận cảnh,Nhà để xe,13,"Đuôi xe Camry, tấm biển giả 6 chữ che biển thật","PNG 1920×1080, cùng ánh sáng với cảnh gốc. Vùng chữ để trống: chữ/manh mối dựng bằng code.",P1,Chưa làm,,,,Câu đố biển số
+CL-CAR-INTERIOR,assets/game/closeups/,cl-car-interior-v1.png,Cận cảnh,Nhà để xe,13,Khoang hành khách bụi bặm,"PNG 1920×1080, cùng ánh sáng với cảnh gốc",P2,Chưa làm,,,,
+CL-TRUNK-OPEN,assets/game/closeups/,cl-trunk-open-v1.png,Cận cảnh,Nhà để xe,13,Cốp xe mở: máy hát đĩa cũ và một đĩa than,"PNG 1920×1080, cùng ánh sáng với cảnh gốc",P1,Chưa làm,,,,
+CL-1313-SEAM,assets/game/closeups/,cl-1313-seam-v1.png,Cận cảnh,Căn 1313,15,Mảng vách có đường nối khác lạ,"PNG 1920×1080, cùng ánh sáng với cảnh gốc",P1,Chưa làm,,,,
+CL-1313-WALL-OPEN,assets/game/closeups/,cl-1313-wall-open-v1.png,Cận cảnh,Căn 1313,15,"Khoảng trống sau vách, thi thể khô cầm mảnh giấy","PNG 1920×1080, cùng ánh sáng với cảnh gốc",P1,Chưa làm,,,,"Tiết chế, không máu me; cần bản che mờ"
+PROP-RED-BOOK,assets/game/props/,prop-red-book-v1.png,Đạo cụ,Căn 1305,12,Sách đỏ bìa trơn (khay vật phẩm),"PNG 1024×1024 nền trong suốt (alpha), không bóng đổ cứng",P0,Có v1 (placeholder),,,,
+PROP-NOTE-1305,assets/game/props/,prop-note-1305-v1.png,Đạo cụ,Căn 1305,12,Mảnh giấy kẹp trong sách,"PNG 1024×1024 nền trong suốt (alpha), không bóng đổ cứng. Vùng chữ để trống: chữ/manh mối dựng bằng code.",P1,Chưa làm,,,,
+PROP-RECORDER,assets/game/props/,prop-recorder-v1.png,Đạo cụ,Dụng cụ,"07, 10",Máy ghi âm EVP,"PNG 1024×1024 nền trong suốt (alpha), không bóng đổ cứng",P1,Chưa làm,,,,
+PROP-EMF,assets/game/props/,prop-emf-v1.png,Đạo cụ,Dụng cụ,10,Máy đo EMF,"PNG 1024×1024 nền trong suốt (alpha), không bóng đổ cứng",P1,Chưa làm,,,,
+PROP-FLASHLIGHT,assets/game/props/,prop-flashlight-v1.png,Đạo cụ,Dụng cụ,10,Đèn pin,"PNG 1024×1024 nền trong suốt (alpha), không bóng đổ cứng",P2,Chưa làm,,,,
+PROP-KEYRING,assets/game/props/,prop-keyring-v1.png,Đạo cụ,Nhà để xe,13,Chùm chìa khoá cũ của bác bảo vệ,"PNG 1024×1024 nền trong suốt (alpha), không bóng đổ cứng",P1,Chưa làm,,,,
+PROP-RECORD-PLAYER,assets/game/props/,prop-record-player-v1.png,Đạo cụ,Nhà để xe,13,Máy hát đĩa cũ,"PNG 1024×1024 nền trong suốt (alpha), không bóng đổ cứng",P1,Chưa làm,,,,
+PROP-VINYL,assets/game/props/,prop-vinyl-v1.png,Đạo cụ,Nhà để xe,13,"Đĩa than, nhãn 4 dòng","PNG 1024×1024 nền trong suốt (alpha), không bóng đổ cứng. Vùng chữ để trống: chữ/manh mối dựng bằng code.",P1,Chưa làm,,,,Câu đố bỏ chuỗi chữ
+PROP-LETTER-KHANH,assets/game/props/,prop-letter-khanh-v1.png,Đạo cụ,Căn 1313,15,Thư viết tay của Khánh,"PNG 1024×1024 nền trong suốt (alpha), không bóng đổ cứng. Vùng chữ để trống: chữ/manh mối dựng bằng code.",P1,Chưa làm,,,,
+PROP-FOLDING-KNIFE,assets/game/props/,prop-folding-knife-v1.png,Đạo cụ,Căn 1313,15,Dao gấp,"PNG 1024×1024 nền trong suốt (alpha), không bóng đổ cứng",P1,Chưa làm,,,,Dùng cả ở nghi thức
+PROP-CANDLES,assets/game/props/,prop-candles-v1.png,Đạo cụ,Nghi thức,"11, 15",Nến,"PNG 1024×1024 nền trong suốt (alpha), không bóng đổ cứng",P1,Chưa làm,,,,
+PROP-SAGE,assets/game/props/,prop-sage-v1.png,Đạo cụ,Nghi thức,"11, 15",Bó xô thơm (sage),"PNG 1024×1024 nền trong suốt (alpha), không bóng đổ cứng",P1,Chưa làm,,,,
+PROP-PRAYER-BOOK,assets/game/props/,prop-prayer-book-v1.png,Đạo cụ,Nghi thức,"11, 15",Sách kinh,"PNG 1024×1024 nền trong suốt (alpha), không bóng đổ cứng",P1,Chưa làm,,,,
+PROP-CHALK,assets/game/props/,prop-chalk-v1.png,Đạo cụ,Nghi thức,"11, 15",Phấn/than vẽ ký hiệu,"PNG 1024×1024 nền trong suốt (alpha), không bóng đổ cứng",P1,Chưa làm,,,,
+PROP-BELL,assets/game/props/,prop-bell-v1.png,Đạo cụ,Nghi thức,"11, 15",Chuông nhỏ,"PNG 1024×1024 nền trong suốt (alpha), không bóng đổ cứng",P1,Chưa làm,,,,
+PROP-ENVELOPE,assets/game/props/,prop-envelope-v1.png,Đạo cụ,Kết thúc,16,Phong bì thù lao,"PNG 1024×1024 nền trong suốt (alpha), không bóng đổ cứng",P2,Chưa làm,,,,
+CHAR-GUARD,assets/game/characters/,char-guard-v1.png,Nhân vật,Nhà để xe,"13, 16",Bác bảo vệ khu tập thể,PNG 1024×1536 nền trong suốt; 3 biểu cảm: bình thường / lo lắng / sợ,P1,Chưa làm,,,,
+CHAR-THANH,assets/game/characters/,char-thanh-v1.png,Nhân vật,Hồ sơ,03,"Nguyễn Văn Thành — thợ, không tin ma",PNG 1024×1536 nền trong suốt; 3 biểu cảm: bình thường / lo lắng / sợ,P1,Chưa làm,,,,
+CHAR-PHUOC,assets/game/characters/,char-phuoc-v1.png,Nhân vật,Hồ sơ,03,"Trần Hữu Phước — thợ, có căn, viết tự động",PNG 1024×1536 nền trong suốt; 3 biểu cảm: bình thường / lo lắng / sợ,P1,Chưa làm,,,,
+CHAR-DUNG,assets/game/characters/,char-dung-v1.png,Nhân vật,Hồ sơ,03,Lê Quốc Dũng — thợ sơn,PNG 1024×1536 nền trong suốt; 3 biểu cảm: bình thường / lo lắng / sợ,P1,Chưa làm,,,,
+CHAR-RESIDENT,assets/game/characters/,char-resident-v1.png,Nhân vật,Kết thúc,16,Cô trong tổ dân phố,PNG 1024×1536 nền trong suốt; 3 biểu cảm: bình thường / lo lắng / sợ,P2,Chưa làm,,,,
+SPR-SHADOW-KHANH,assets/game/characters/,spr-shadow-khanh-v1.png,Nhân vật,Toàn game,"01, 16","Bóng người — Khánh (dáng nam, cao)","PNG 1024×2048 alpha, bóng mờ, nhìn rõ dáng",P1,Chưa làm,,,,Thay OV-SHADOW v1
+SPR-SHADOW-LAN,assets/game/characters/,spr-shadow-lan-v1.png,Nhân vật,Toàn game,"01, 16",Bóng người — Lan (dáng nữ),"PNG 1024×2048 alpha, bóng mờ, nhìn rõ dáng",P1,Chưa làm,,,,
+PHOTO-BINH-HANH,assets/game/documents/,photo-binh-hanh-v1.png,Ảnh hồ sơ,Hồ sơ,02,Ảnh cũ vợ chồng Trần Văn Bình và Lê Thị Hạnh,"PNG 800×1000, ảnh tư liệu cũ (hư cấu), có thể ngả màu",P1,Chưa làm,,,,"Người hư cấu, không dùng ảnh người thật"
+PHOTO-KHANH,assets/game/documents/,photo-khanh-v1.png,Ảnh hồ sơ,Hồ sơ,02,"Phạm Gia Khánh, ca sĩ ban Dạ Khúc","PNG 800×1000, ảnh tư liệu cũ (hư cấu), có thể ngả màu",P1,Chưa làm,,,,
+PHOTO-VINH,assets/game/documents/,photo-vinh-v1.png,Ảnh hồ sơ,Hồ sơ,02,"Vũ Quang Vinh, đứng đầu Hội Cửu Tinh","PNG 800×1000, ảnh tư liệu cũ (hư cấu), có thể ngả màu",P1,Chưa làm,,,,
+PHOTO-LAN,assets/game/documents/,photo-lan-v1.png,Ảnh hồ sơ,Hồ sơ,02,"Lan, thành viên Hội Cửu Tinh","PNG 800×1000, ảnh tư liệu cũ (hư cấu), có thể ngả màu",P1,Chưa làm,,,,
+PHOTO-CUU-TINH,assets/game/documents/,photo-cuu-tinh-v1.png,Ảnh hồ sơ,Hồ sơ,02,Ảnh nhóm 5 người Hội Cửu Tinh,"PNG 800×1000, ảnh tư liệu cũ (hư cấu), có thể ngả màu",P2,Chưa làm,,,,
+DOC-POSTER-DAKHUC,assets/game/documents/,doc-poster-dakhuc-v1.png,Giấy tờ,Hồ sơ,02,Poster biểu diễn ban Dạ Khúc,PNG 1200×1700. Vùng chữ để trống: chữ/manh mối dựng bằng code.,P2,Chưa làm,,,,
+DOC-NEWSPAPER,assets/game/documents/,doc-newspaper-v1.png,Giấy tờ,Hồ sơ,02,"Nền mẩu báo cũ (cắt góc, ố vàng)",PNG 1200×1600 alpha. Vùng chữ để trống: chữ/manh mối dựng bằng code.,P1,Chưa làm,,,,
+DOC-AUTOWRITING,assets/game/documents/,doc-autowriting-v1.png,Giấy tờ,Hồ sơ,03,Tờ giấy chữ viết tự động của Phước,PNG 1200×1600 alpha,P1,Chưa làm,,,,Câu đố danh tính — cần vẽ lại bản tiếng Việt
+DOC-TOOLS-SHEET,assets/game/documents/,doc-tools-sheet-v1.png,Giấy tờ,Dụng cụ,10,Bảng dụng cụ điều tra hiện tượng siêu nhiên,PNG 1600×1200. Vùng chữ để trống: chữ/manh mối dựng bằng code.,P1,Chưa làm,,,,Ảnh gốc hinh-giu-nguyen/dung-cu.png chưa có trong repo
+DOC-PAPER-TEXTURES,assets/game/documents/,doc-paper-textures-v1.png,Giấy tờ,Giao diện,-,"Bộ nền giấy: giấy kẻ, giấy ố, giấy xé (tối thiểu 4)","PNG 1200×1600 mỗi tấm, alpha",P1,Chưa làm,,,,Tham khảo figma-rebuild/texture-*.png
+DOCS-DEMO,assets/game/documents/,docs-demo-v1.json,Văn bản,Căn 1305,12,Văn bản ghi chú/EVP tạm của demo,JSON UTF-8,P0,Có v1 (placeholder),,,,
+OV-SHADOW,assets/game/overlays/,ov-shadow-v1.svg,Lớp phủ,Toàn game,-,Bóng người mờ tạm,PNG/WebP 1920×1080 alpha hoặc SVG; không nhấp nháy mạnh,P0,Có v1 (placeholder),,,,Sẽ thay bằng SPR-SHADOW-*
+OV-VIGNETTE,assets/game/overlays/,ov-vignette-v1.svg,Lớp phủ,Toàn game,-,Viền tối tăng căng thẳng,PNG/WebP 1920×1080 alpha hoặc SVG; không nhấp nháy mạnh,P0,Có v1 (placeholder),,,,
+OV-CCTV,assets/game/overlays/,ov-cctv-v1.svg,Lớp phủ,Điểm theo dõi tầng 12,09,Dòng quét camera,PNG/WebP 1920×1080 alpha hoặc SVG; không nhấp nháy mạnh,P0,Có v1 (placeholder),,,,
+OV-NIGHTVISION,assets/game/overlays/,ov-nightvision-v1.png,Lớp phủ,Điểm theo dõi tầng 12,09,Hạt nhiễu + tông camera hồng ngoại,PNG/WebP 1920×1080 alpha hoặc SVG; không nhấp nháy mạnh,P1,Chưa làm,,,,
+OV-1305-LIGHTS-OFF,assets/game/overlays/,ov-1305-lights-off-v1.png,Lớp phủ,Căn 1305,12,Trạng thái đèn tắt cho BG-1305,PNG/WebP 1920×1080 alpha hoặc SVG; không nhấp nháy mạnh,P2,Chưa làm,,,,Cùng góc máy BG-1305
+OV-1305-DOOR-CLOSED,assets/game/overlays/,ov-1305-door-closed-v1.png,Lớp phủ,Căn 1305,12,Cửa phòng ngủ đóng (lớp tách),PNG/WebP 1920×1080 alpha hoặc SVG; không nhấp nháy mạnh,P2,Chưa làm,,,,
+OV-SIGILS,assets/game/overlays/,ov-sigils-v1.png,Lớp phủ,Nghi thức,11,Ký hiệu vẽ trên tường 1313,PNG/WebP 1920×1080 alpha hoặc SVG; không nhấp nháy mạnh,P1,Chưa làm,,,,
+OV-SCRATCH,assets/game/overlays/,ov-scratch-v1.png,Lớp phủ,Nghi thức,16,Vết cào khi bị thực thể tấn công,PNG/WebP 1920×1080 alpha hoặc SVG; không nhấp nháy mạnh,P2,Chưa làm,,,,
+ANIM-SHADOW-WALK,assets/game/animations/,anim-shadow-walk-v1.png,Hoạt ảnh,Hành lang tầng 13,"01, 03",Bóng người lướt qua hành lang rồi khuất sau cửa,Sprite sheet PNG alpha 12 fps hoặc WebM alpha; ≤ 4 giây,P1,Chưa làm,,,,
+ANIM-SHADOWS-MERGE,assets/game/animations/,anim-shadows-merge-v1.png,Hoạt ảnh,Kết thúc,16,"Hai bóng bước ra từ 1305, hoà thành một, tan thành khói",Sprite sheet PNG alpha 12 fps hoặc WebM alpha; ≤ 4 giây,P1,Chưa làm,,,,
+ANIM-POLTERGEIST,assets/game/animations/,anim-poltergeist-v1.png,Hoạt ảnh,Nghi thức,16,Đồ vật bị ném/rung trong căn 1313,Sprite sheet PNG alpha 12 fps hoặc WebM alpha; ≤ 4 giây,P2,Chưa làm,,,,
+ANIM-CANDLE-FLAME,assets/game/animations/,anim-candle-flame-v1.png,Hoạt ảnh,Nghi thức,11,Lửa nến lặp,Sprite sheet PNG alpha 12 fps hoặc WebM alpha; ≤ 4 giây,P2,Chưa làm,,,,
+MAP-F13,assets/game/maps/,map-f13-v1.svg,Bản đồ,Hành lang tầng 13,-,"Sơ đồ tầng 13 (1301–1319, cầu thang, 2 camera)",SVG 1600×900,P0,Có v1 (placeholder),,,,
+MAP-COMPLEX,assets/game/maps/,map-complex-v1.svg,Bản đồ,Mở đầu,"01, 13","Sơ đồ khu tập thể: khối C, sân phơi, nhà để xe",SVG 1600×900,P1,Chưa làm,,,,
+UI-LOGO,assets/game/ui/,ui-logo-v1.svg,Giao diện,Giao diện,-,Logo nhóm An Linh,SVG + PNG 1024 alpha,P1,Chưa làm,,,,
+UI-CURSORS,assets/game/ui/,ui-cursors-v1.png,Giao diện,Giao diện,-,"Bộ con trỏ: mặc định, xem, dùng, nói, đi","PNG 64×64 alpha mỗi trạng thái, có điểm nóng",P1,Chưa làm,,,,
+UI-PANEL,assets/game/ui/,ui-panel-v1.png,Giao diện,Giao diện,-,Khung hộp thoại / bảng tài liệu (9-slice),"PNG 9-slice, ghi kích thước viền",P1,Chưa làm,,,,
+UI-INVENTORY,assets/game/ui/,ui-inventory-v1.png,Giao diện,Giao diện,-,Thanh vật phẩm + ô vật phẩm,"PNG alpha, ô 128×128",P1,Chưa làm,,,,
+UI-CODE-INPUT,assets/game/ui/,ui-code-input-v1.png,Giao diện,Giao diện,-,Khung nhập mã đáp án (khoá số/sổ tay),PNG alpha,P1,Chưa làm,,,,
+ICON-FOLDER,assets/game/icons/,icon-folder-v1.svg,Biểu tượng,Giao diện,-,Hồ sơ,"SVG 96×96, nét đơn 2px, một màu (đổi màu bằng code)",P0,Có v1 (placeholder),,,,
+ICON-CAMERA,assets/game/icons/,icon-camera-v1.svg,Biểu tượng,Giao diện,-,Camera,"SVG 96×96, nét đơn 2px, một màu (đổi màu bằng code)",P0,Có v1 (placeholder),,,,
+ICON-RECORDER,assets/game/icons/,icon-recorder-v1.svg,Biểu tượng,Giao diện,-,Máy ghi âm,"SVG 96×96, nét đơn 2px, một màu (đổi màu bằng code)",P0,Có v1 (placeholder),,,,
+ICON-NOTES,assets/game/icons/,icon-notes-v1.svg,Biểu tượng,Giao diện,-,Ghi chú,"SVG 96×96, nét đơn 2px, một màu (đổi màu bằng code)",P0,Có v1 (placeholder),,,,
+ICON-BOOK,assets/game/icons/,icon-book-v1.svg,Biểu tượng,Giao diện,-,Sách,"SVG 96×96, nét đơn 2px, một màu (đổi màu bằng code)",P0,Có v1 (placeholder),,,,
+ICON-EMF,assets/game/icons/,icon-emf-v1.svg,Biểu tượng,Giao diện,-,Máy đo EMF,"SVG 96×96, nét đơn 2px, một màu (đổi màu bằng code)",P1,Chưa làm,,,,
+ICON-MAP,assets/game/icons/,icon-map-v1.svg,Biểu tượng,Giao diện,-,Bản đồ,"SVG 96×96, nét đơn 2px, một màu (đổi màu bằng code)",P1,Chưa làm,,,,
+ICON-KEY,assets/game/icons/,icon-key-v1.svg,Biểu tượng,Giao diện,-,Chìa khoá,"SVG 96×96, nét đơn 2px, một màu (đổi màu bằng code)",P1,Chưa làm,,,,
+ICON-VINYL,assets/game/icons/,icon-vinyl-v1.svg,Biểu tượng,Giao diện,-,Đĩa than,"SVG 96×96, nét đơn 2px, một màu (đổi màu bằng code)",P1,Chưa làm,,,,
+ICON-LETTER,assets/game/icons/,icon-letter-v1.svg,Biểu tượng,Giao diện,-,Thư,"SVG 96×96, nét đơn 2px, một màu (đổi màu bằng code)",P1,Chưa làm,,,,
+ICON-RITUAL-SET,assets/game/icons/,icon-ritual-set-v1.svg,Biểu tượng,Nghi thức,11,"6 biểu tượng: nến, xô thơm, sách kinh, ký hiệu, dao, chuông","SVG 96×96, nét đơn 2px, một màu (đổi màu bằng code); 6 file icon-ritual-<tên>-v1.svg",P1,Chưa làm,,,,
+ICON-HINT,assets/game/icons/,icon-hint-v1.svg,Biểu tượng,Giao diện,-,Gợi ý,"SVG 96×96, nét đơn 2px, một màu (đổi màu bằng code)",P1,Chưa làm,,,,
+ICON-SETTINGS,assets/game/icons/,icon-settings-v1.svg,Biểu tượng,Giao diện,-,Cài đặt / âm lượng,"SVG 96×96, nét đơn 2px, một màu (đổi màu bằng code)",P1,Chưa làm,,,,
+MUS-THEME,assets/game/audio/music/,mus-theme-v1.wav,Nhạc,Giao diện,-,Nhạc chủ đề màn hình tiêu đề,WAV 48 kHz 24-bit stereo; vòng lặp liền mạch nếu là loop,P1,Chưa làm,,,,
+MUS-INVESTIGATE,assets/game/audio/music/,mus-investigate-v1.wav,Nhạc,Toàn game,-,"Nhạc nền điều tra, nhẹ, loop",WAV 48 kHz 24-bit stereo; vòng lặp liền mạch nếu là loop,P1,Chưa làm,,,,
+MUS-TENSION,assets/game/audio/music/,mus-tension-v1.wav,Nhạc,Toàn game,-,"Lớp căng thẳng khi bóng người xuất hiện, loop",WAV 48 kHz 24-bit stereo; vòng lặp liền mạch nếu là loop,P1,Chưa làm,,,,Phối được chồng lên MUS-INVESTIGATE
+MUS-RITUAL,assets/game/audio/music/,mus-ritual-v1.wav,Nhạc,Nghi thức,16,Nhạc lúc làm lễ,WAV 48 kHz 24-bit stereo; vòng lặp liền mạch nếu là loop,P1,Chưa làm,,,,
+MUS-ENDING,assets/game/audio/music/,mus-ending-v1.wav,Nhạc,Kết thúc,16,"Nhạc kết, nhẹ nhõm",WAV 48 kHz 24-bit stereo; vòng lặp liền mạch nếu là loop,P1,Chưa làm,,,,
+AMB-ROOM,assets/game/audio/ambience/,amb-room-v1.wav,Âm nền,Căn 1305,12,"Tiếng điện, nền phòng","WAV 48 kHz 24-bit stereo, loop 30–60 giây liền mạch",P0,Có v1 (placeholder),,,,"v1 24 kHz, 12 giây"
+AMB-CORRIDOR,assets/game/audio/ambience/,amb-corridor-v1.wav,Âm nền,Hành lang tầng 13,01,"Hành lang: gió lùa, cửa sắt đung đưa xa","WAV 48 kHz 24-bit stereo, loop 30–60 giây liền mạch",P1,Chưa làm,,,,
+AMB-STAIRWELL,assets/game/audio/ambience/,amb-stairwell-v1.wav,Âm nền,Điểm theo dõi tầng 12,09,"Cầu thang, tiếng khu tập thể vọng lên","WAV 48 kHz 24-bit stereo, loop 30–60 giây liền mạch",P1,Chưa làm,,,,
+AMB-COURTYARD,assets/game/audio/ambience/,amb-courtyard-v1.wav,Âm nền,Mở đầu,"01, 16","Sân khu tập thể: xe máy, tiếng người, chiều/đêm","WAV 48 kHz 24-bit stereo, loop 30–60 giây liền mạch",P1,Chưa làm,,,,
+AMB-GARAGE,assets/game/audio/ambience/,amb-garage-v1.wav,Âm nền,Nhà để xe,13,"Nhà để xe, nước dột nhỏ giọt","WAV 48 kHz 24-bit stereo, loop 30–60 giây liền mạch",P1,Chưa làm,,,,
+AMB-1313,assets/game/audio/ambience/,amb-1313-v1.wav,Âm nền,Căn 1313,15,"Căn 1313 bí bách, tiếng thì thầm rất nhỏ","WAV 48 kHz 24-bit stereo, loop 30–60 giây liền mạch",P1,Chưa làm,,,,
+SFX-STATIC,assets/game/audio/sfx/,sfx-static-v1.wav,SFX,Toàn game,07,Nhiễu máy ghi âm,"WAV 48 kHz 24-bit mono, cắt sát đầu, đỉnh ≤ -3 dBFS",P0,Có v1 (placeholder),,,,
+SFX-KNOCK,assets/game/audio/sfx/,sfx-knock-v1.wav,SFX,Căn 1305,-,Ba tiếng gõ sau vách,"WAV 48 kHz 24-bit mono, cắt sát đầu, đỉnh ≤ -3 dBFS",P0,Có v1 (placeholder),,,,Giữ cue 0.35/0.90/1.45 s
+SFX-CREAK,assets/game/audio/sfx/,sfx-creak-v1.wav,SFX,Toàn game,-,Tiếng cửa cũ,"WAV 48 kHz 24-bit mono, cắt sát đầu, đỉnh ≤ -3 dBFS",P0,Có v1 (placeholder),,,,Nên thay bản thu thật
+SFX-PAPER,assets/game/audio/sfx/,sfx-paper-v1.wav,SFX,Toàn game,-,Lật/giở giấy,"WAV 48 kHz 24-bit mono, cắt sát đầu, đỉnh ≤ -3 dBFS",P0,Có v1 (placeholder),,,,Nên thay bản thu thật
+SFX-CLICK,assets/game/audio/sfx/,sfx-click-v1.wav,SFX,Giao diện,-,Nút bấm thiết bị,"WAV 48 kHz 24-bit mono, cắt sát đầu, đỉnh ≤ -3 dBFS",P0,Có v1 (placeholder),,,,
+SFX-FOOTSTEPS,assets/game/audio/sfx/,sfx-footsteps-v1.wav,SFX,Toàn game,-,Bước chân trên nền gạch/xi măng (≥ 6 biến thể),"WAV 48 kHz 24-bit mono, cắt sát đầu, đỉnh ≤ -3 dBFS",P1,Chưa làm,,,,sfx-footsteps-01..06-v1.wav
+SFX-METAL-GATE,assets/game/audio/sfx/,sfx-metal-gate-v1.wav,SFX,Hành lang tầng 13,"01, 16",Cửa sắt cầu thang mở/đung đưa,"WAV 48 kHz 24-bit mono, cắt sát đầu, đỉnh ≤ -3 dBFS",P1,Chưa làm,,,,
+SFX-KEYS,assets/game/audio/sfx/,sfx-keys-v1.wav,SFX,Nhà để xe,13,"Chùm chìa khoá, tra ổ","WAV 48 kHz 24-bit mono, cắt sát đầu, đỉnh ≤ -3 dBFS",P1,Chưa làm,,,,
+SFX-SCREWS,assets/game/audio/sfx/,sfx-screws-v1.wav,SFX,Căn 1305,12,Tháo vít ô kỹ thuật,"WAV 48 kHz 24-bit mono, cắt sát đầu, đỉnh ≤ -3 dBFS",P1,Chưa làm,,,,
+SFX-CAR-TRUNK,assets/game/audio/sfx/,sfx-car-trunk-v1.wav,SFX,Nhà để xe,13,Mở cửa xe và cốp xe cũ,"WAV 48 kHz 24-bit mono, cắt sát đầu, đỉnh ≤ -3 dBFS",P1,Chưa làm,,,,
+SFX-NEEDLE-DROP,assets/game/audio/sfx/,sfx-needle-drop-v1.wav,SFX,Nhà để xe,13,Đặt kim đĩa than + tiếng rè,"WAV 48 kHz 24-bit mono, cắt sát đầu, đỉnh ≤ -3 dBFS",P1,Chưa làm,,,,
+SFX-DRYWALL-TEAR,assets/game/audio/sfx/,sfx-drywall-tear-v1.wav,SFX,Căn 1313,15,"Cạy đường nối, kéo tấm thạch cao","WAV 48 kHz 24-bit mono, cắt sát đầu, đỉnh ≤ -3 dBFS",P1,Chưa làm,,,,
+SFX-CANDLE,assets/game/audio/sfx/,sfx-candle-v1.wav,SFX,Nghi thức,11,"Quẹt diêm, châm nến","WAV 48 kHz 24-bit mono, cắt sát đầu, đỉnh ≤ -3 dBFS",P1,Chưa làm,,,,
+SFX-SAGE,assets/game/audio/sfx/,sfx-sage-v1.wav,SFX,Nghi thức,11,Đốt bó xô thơm,"WAV 48 kHz 24-bit mono, cắt sát đầu, đỉnh ≤ -3 dBFS",P2,Chưa làm,,,,
+SFX-CHALK,assets/game/audio/sfx/,sfx-chalk-v1.wav,SFX,Nghi thức,11,Vẽ ký hiệu lên tường,"WAV 48 kHz 24-bit mono, cắt sát đầu, đỉnh ≤ -3 dBFS",P2,Chưa làm,,,,
+SFX-KNIFE,assets/game/audio/sfx/,sfx-knife-v1.wav,SFX,Nghi thức,11,Mở dao gấp,"WAV 48 kHz 24-bit mono, cắt sát đầu, đỉnh ≤ -3 dBFS",P1,Chưa làm,,,,
+SFX-BELL,assets/game/audio/sfx/,sfx-bell-v1.wav,SFX,Nghi thức,11,"Rung chuông, ngân dài","WAV 48 kHz 24-bit mono, cắt sát đầu, đỉnh ≤ -3 dBFS",P1,Chưa làm,,,,
+SFX-POLTERGEIST,assets/game/audio/sfx/,sfx-poltergeist-v1.wav,SFX,Nghi thức,16,"Đồ vật bị ném, va đập (≥ 4 biến thể)","WAV 48 kHz 24-bit mono, cắt sát đầu, đỉnh ≤ -3 dBFS",P1,Chưa làm,,,,
+SFX-WHISPER-NAME,assets/game/audio/sfx/,sfx-whisper-name-v1.wav,SFX,Nghi thức,16,Thì thầm gọi tên người chơi,"WAV 48 kHz 24-bit mono, cắt sát đầu, đỉnh ≤ -3 dBFS",P2,Chưa làm,,,,Không gọi tên cụ thể — dùng âm mơ hồ
+SFX-EMF-BEEP,assets/game/audio/sfx/,sfx-emf-beep-v1.wav,SFX,Dụng cụ,10,Máy EMF kêu theo mức (thấp/vừa/cao),"WAV 48 kHz 24-bit mono, cắt sát đầu, đỉnh ≤ -3 dBFS",P1,Chưa làm,,,,
+SFX-CAM-SWITCH,assets/game/audio/sfx/,sfx-cam-switch-v1.wav,SFX,Điểm theo dõi tầng 12,09,Chuyển kênh camera,"WAV 48 kHz 24-bit mono, cắt sát đầu, đỉnh ≤ -3 dBFS",P2,Chưa làm,,,,
+SFX-CORRECT,assets/game/audio/sfx/,sfx-correct-v1.wav,SFX,Giao diện,-,Nhập đúng mã,"WAV 48 kHz 24-bit mono, cắt sát đầu, đỉnh ≤ -3 dBFS",P1,Chưa làm,,,,
+SFX-WRONG,assets/game/audio/sfx/,sfx-wrong-v1.wav,SFX,Giao diện,-,Nhập sai mã,"WAV 48 kHz 24-bit mono, cắt sát đầu, đỉnh ≤ -3 dBFS",P1,Chưa làm,,,,
+SFX-SMOKE-VANISH,assets/game/audio/sfx/,sfx-smoke-vanish-v1.wav,SFX,Kết thúc,16,Hai bóng tan thành khói,"WAV 48 kHz 24-bit mono, cắt sát đầu, đỉnh ≤ -3 dBFS",P1,Chưa làm,,,,
+VOICE-EVP,assets/game/audio/voice/,voice-evp-v1.wav,Giọng,Căn 1305,-,Giọng EVP tổng hợp tạm (demo),"WAV 48 kHz 24-bit mono, giọng khô + bản có hiệu ứng; kèm file chép lời .txt",P0,Có v1 (placeholder),,,,TTS macOS — thay trước khi phát hành
+VO-EVP-1,assets/game/audio/voice/,vo-evp-1-v1.wav,Giọng,Hành lang tầng 13,07,Phiên EVP đầu tiên: các câu trả lời của bóng người,"WAV 48 kHz 24-bit mono, giọng khô + bản có hiệu ứng; kèm file chép lời .txt",P1,Chưa làm,,,,Câu đố đuôi từ — chờ chốt lời Việt
+VO-EVP-2,assets/game/audio/voice/,vo-evp-2-v1.wav,Giọng,Điểm theo dõi tầng 12,09,Phiên EVP thứ hai (Khánh và Lan),"WAV 48 kHz 24-bit mono, giọng khô + bản có hiệu ứng; kèm file chép lời .txt",P1,Chưa làm,,,,Chương 14 chưa có trong repo
+VO-VINYL,assets/game/audio/voice/,vo-vinyl-v1.wav,Giọng,Nhà để xe,13,Nội dung phát ra từ đĩa than,"WAV 48 kHz 24-bit mono, giọng khô + bản có hiệu ứng; kèm file chép lời .txt",P1,Chưa làm,,,,Câu đố bỏ chuỗi chữ — chờ chốt
+VO-GUARD,assets/game/audio/voice/,vo-guard-v1.wav,Giọng,Nhà để xe,"13, 16",Lời thoại bác bảo vệ,"WAV 48 kHz 24-bit mono, giọng khô + bản có hiệu ứng; kèm file chép lời .txt",P2,Chưa làm,,,,
+VO-WITNESSES,assets/game/audio/voice/,vo-witnesses-v1.wav,Giọng,Hồ sơ,03,"Lời khai của Thành, Phước, Dũng (3 file)","WAV 48 kHz 24-bit mono, giọng khô + bản có hiệu ứng; kèm file chép lời .txt",P2,Chưa làm,,,,
+VO-THANKS,assets/game/audio/voice/,vo-thanks-v1.wav,Giọng,Kết thúc,16,"Hai bóng thì thầm ""Cảm ơn""","WAV 48 kHz 24-bit mono, giọng khô + bản có hiệu ứng; kèm file chép lời .txt",P1,Chưa làm,,,,
